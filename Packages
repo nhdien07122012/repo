@@ -1,14 +1,13 @@
-Package: unknown
+Package: xyz.cypwn.calculatorconverter
 Version: 1.0
 Architecture: iphoneos-arm
-Description: No description
+Description: Máy tính có chức năng chuyển đổi đơn vị
 Filename: debs/xyz.cypwn.calculatorconverter_1.0.deb
 Size: 98186
 
-Package: unknown
-Version: 1.0
+Package: xyz.cypwn.calculatorhistory
+Version: 1.2
 Architecture: iphoneos-arm
-Description: No description
+Description: Hiển thị lịch sử tính toán gần nhất
 Filename: debs/xyz.cypwn.calculatorhistory_1.2.deb
 Size: 43458
-
