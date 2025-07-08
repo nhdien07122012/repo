@@ -12,12 +12,12 @@ SHA1: 3adc8c92438ba032c7241d47041c8f18f14db680
 SHA256: c6f887af50a27d6597dbe049d5ecd667a7b54a58185f4dd18facc9d94ee814a6
 SHA512: a41605f60a604495c8b1f655e406d41bb2b0be1be046dc800c42523c7c24aeb563fdd27d2845f31da11421f75e61f6ef74efcfaede8328b6c5656d8b88376e67
 Description: "Đây là một chủ đề công tắc hoàn toàn mới, mang lại trải nghiệm thay thế cực kỳ mượt mà
-Depiction: https://nhdien07122012.github.io/repo/decriptions/day-night/day-night-tweak.html
+Depiction: http://bvnsupport.github.io/infodeb/Html/Day-Night.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Day-Night.json
 Name: Day-Night Switch (Roothide)
 Author: 白衣
 Sponsor: 
-Icon: https://nhdien07122012.github.io/repo/decriptions/day-night/icon-tweak.png
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
 
 Package: com.check0ver.BohemicRootless
 Architecture: iphoneos-arm64
@@ -53,12 +53,12 @@ SHA1: 33015ceb40587278e52ec96950ea8a501dae5da3
 SHA256: 0145622e2fb76d8bc5b9bb625f86d3353b119639c711109615e354ef2c1ae52d
 SHA512: 8b999d808aa8eadf5b743380567ae448952691dc4b76f00dfaecfe72105dbfb67dc4693ba4fb0016cc252801dc02b9e479ecdc1ed0fb562de8a5c25eadae8200
 Description: Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.
-Depiction: https://repo.thuthuatjb.com/index.php?pid=641
+Depiction: https://nhdien07122012.github.io/repo/decriptions/day-night/day-night-tweak.html
 SileoDepiction: https://repo.thuthuatjb.com/sileo/com.thuthuatjb.appdataplus.json
 Name: AppData Plus
 Author: Fouad Raheb & Netskao
 Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Icon: https://nhdien07122012.github.io/repo/decriptions/day-night/icon-tweak.png
 
 Package: net.kenhtao.trapp.jb
 Architecture: iphoneos-arm64
