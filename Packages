@@ -12,12 +12,12 @@ SHA1: 18f28506152c38e6d004e2ba0bf6b35899665f75
 SHA256: fa74c80849fb1183d0723dbac7a90b18f865908cd1e54cfb03d9817ce0b4e65f
 SHA512: 8e5a507aef8cbc416b7eb7f96f790d1ebac33efd0aa8a94c3bcd2a7b6706938f251e705f610237335d8065461f2c1d37b10616d7e8b444c3a0887cb2bf482be3
 Description: Plug-in này có cài đặt, hãy bật công tắc trong cài đặt hệ thống và Áp dụng cài đặt! Đây là những gì nó làm: Thêm một số phong cách cho công tắc của bạn với các hiệu ứng mặt trời và mặt trăng. Vui lòng xem ảnh chụp màn hình giới thiệu của plug-in để biết hiệu ứng, nó rất tốt! Các chàng trai thích làm đẹp đừng bỏ lỡ nhé! Có thể có lỗi, vui lòng tự kiểm tra!
-Depiction: http://bvnsupport.github.io/infodeb/Html/susudaynightswitch.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/susudaynightswitch.json
-Name: DayNightSwitch VH(Roothide)
+Depiction: http://nhdien07122012.github.io/repo/depictions/susudaynightswitch.html
+SileoDepiction: https://nhdien07122012.github.io/repo/depictions/day-night/day-night-tweak.html
+Name: DayNightSwitch
 Author: 苏苏
 Sponsor: 
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Icon: /repo/decriptions/day-night/icon-tweak.png
 
 Package: com.check0ver.BohemicRootless
 Architecture: iphoneos-arm64
