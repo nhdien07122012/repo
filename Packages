@@ -1,23 +1,23 @@
-Package: com.bvn.susudaynightswitch
-Architecture: iphoneos-arm64
-Version: 1.0.5
+Package: com.bvn.switchthemeday.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
 Section: Tweaks
-Maintainer: Bvn repo
-Installed-Size: 1024
+Maintainer: BVN Repo
+Installed-Size: 272
 Depends: mobilesubstrate
-Filename: ./debs/com.bvn.susudaynightswitch_1.0.5.deb
-Size: 97384
-MD5sum: f31eb497a7e966c7b7522ce76fac6a39
-SHA1: 18f28506152c38e6d004e2ba0bf6b35899665f75
-SHA256: fa74c80849fb1183d0723dbac7a90b18f865908cd1e54cfb03d9817ce0b4e65f
-SHA512: 8e5a507aef8cbc416b7eb7f96f790d1ebac33efd0aa8a94c3bcd2a7b6706938f251e705f610237335d8065461f2c1d37b10616d7e8b444c3a0887cb2bf482be3
-Description: Plug-in này có cài đặt, hãy bật công tắc trong cài đặt hệ thống và Áp dụng cài đặt! Đây là những gì nó làm: Thêm một số phong cách cho công tắc của bạn với các hiệu ứng mặt trời và mặt trăng. Vui lòng xem ảnh chụp màn hình giới thiệu của plug-in để biết hiệu ứng, nó rất tốt! Các chàng trai thích làm đẹp đừng bỏ lỡ nhé! Có thể có lỗi, vui lòng tự kiểm tra!
-Depiction: http://bvnsupport.github.io/infodeb/Html/susudaynightswitch.html
-SileoDepiction: https://bvnsupport.github.io/sileodepictions/susudaynightswitch.json
-Name: DayNightSwitch VH(Roothide)
-Author: 苏苏
+Filename: ./debs/com.bvn.switchthemeday.r2_1.0.0.deb
+Size: 135298
+MD5sum: 85a896dc3dfbd532c367b38bcd320122
+SHA1: 3adc8c92438ba032c7241d47041c8f18f14db680
+SHA256: c6f887af50a27d6597dbe049d5ecd667a7b54a58185f4dd18facc9d94ee814a6
+SHA512: a41605f60a604495c8b1f655e406d41bb2b0be1be046dc800c42523c7c24aeb563fdd27d2845f31da11421f75e61f6ef74efcfaede8328b6c5656d8b88376e67
+Description: "Đây là một chủ đề công tắc hoàn toàn mới, mang lại trải nghiệm thay thế cực kỳ mượt mà
+Depiction: https://nhdien07122012.github.io/repo/decriptions/day-night/day-night-tweak.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Day-Night.json
+Name: Day-Night Switch (Roothide)
+Author: 白衣
 Sponsor: 
-Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+Icon: https://nhdien07122012.github.io/repo/decriptions/day-night/icon-tweak.png
 
 Package: com.check0ver.BohemicRootless
 Architecture: iphoneos-arm64
@@ -36,27 +36,6 @@ Depiction:
 SileoDepiction: 
 Name: Bohemic Rootless
 Author: timeloop
-Sponsor: 
-Icon: https://check0ver.com/icon/icon1.png
-
-Package: com.check0ver.YangJiiiLineat
-Architecture: iphoneos-arm
-Version: 1.1
-Section: AIM Fonts
-Maintainer: @UAE_AD1001
-Installed-Size: 1024
-Depends: com.check0ver.icone (>=2.3)
-Filename: ./debs/com.check0ver.YangJiiiLineat_1.1.deb
-Size: 19202
-MD5sum: 63c3d98527779850d2e2acc6a2418b09
-SHA1: dcb32760bd177ad5287da3662620ef4b0a74fd92
-SHA256: e736ea29ed41443fa999f1554d4095d1298ba688f2a756443db6e24c54bba4bd
-SHA512: c967d5e12f861ee94dce9d6e5d26b4f702f8dda65bbc57eb03b9745d79e1c4b8e400d2ec159ceaaf1a23862e243dc9c48e8c219f22748f146e7d409336269ce0
-Description: No description
-Depiction: 
-SileoDepiction: 
-Name: YangJiii_Lineat
-Author: YangJiii
 Sponsor: 
 Icon: https://check0ver.com/icon/icon1.png
 
@@ -123,27 +102,6 @@ Author: MTAC
 Sponsor: 
 Icon: https://media.havoc.app/64ae21880d54f9113bc13a59
 
-Package: xyz.cypwn.ava-ui
-Architecture: iphoneos-arm
-Version: 1.1.2
-Section: Themes
-Maintainer: CyPwn
-Installed-Size: 1024
-Depends: mobilesubstrate
-Filename: ./debs/xyz.cypwn.ava-ui_1.1.2.deb
-Size: 2018986
-MD5sum: aefeb0f7fdc645608dcf713e5eba260f
-SHA1: 11cff20168f699f7d74db6b1b432bbd035130457
-SHA256: 9ae44d337bea6ae6a83c32e560b8dedf3052b604a0e8b9b396d653cfac286ae4
-SHA512: 67e06a5b7b842afeaa62c52f97165a2fb599fc6f92f5ad32ffaf5fc96e35bea6a7f5fbdb1b76e3c8c7befa7fc97b6b58f51942e30afa8c2e3dbeb2d45afb9a8f
-Description: Got bored using same style over and over try Ava UI it is different
-Depiction: https://repo.cypwn.xyz/depiction/21
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/21
-Name: Ava UI
-Author: Devy_Design <idrainmax@gmail.com>
-Sponsor: 
-Icon: https://twickd.com/images/39a90904e50ec669d955437e3dddb2e97976d182.jpeg?size=medium
-
 Package: xyz.cypwn.calculatorconverter
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -186,28 +144,6 @@ Author: fiore
 Sponsor: 
 Icon: https://repo.cypwn.xyz/packages/CalculatorHistory-Rootless/icon.png
 
-Package: xyz.cypwn.cask3
-Architecture: iphoneos-arm64
-Version: 1.0
-Version: 1.0.0
-Section: Tweaks
-Maintainer: CyPwn
-Installed-Size: 812
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
-Filename: ./debs/xyz.cypwn.cask3_1.0.0.deb
-Size: 368870
-MD5sum: 73c64b33550c952fd182a8c3c3e7ed0f
-SHA1: 1200195721f0ccf6c2c8715ace46aa2eb5f56ab0
-SHA256: 51a1f13cf690180470f5f88ef0ae3cb634ccbf8c6ebd2b1edd0b949da6b8a696
-SHA512: 912bec05296e77d997c5a6105a5d8be9596c0bfc6e8eeedad84c93ad6849bfe657491a1f3fefc6999dbbd608f2c9367e88f2019f4dd72b0d2876cf0789e3c144
-Description: Animated table scrolling
-Depiction: https://repo.cypwn.xyz/depiction/47
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/47
-Name: Cask 3
-Author: Ryan Nair
-Sponsor: 
-Icon: https://repo.packix.com/api/Packages/61a6f11eda15c2001aeca940/icon/download?size=medium&hash=61a6f11eda15c2001aeca946
-
 Package: xyz.cypwn.cc26
 Architecture: iphoneos-arm64
 Version: 0.4.3b
@@ -228,27 +164,6 @@ Name: CC26
 Author: therealhoodboy
 Sponsor: 
 Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
-
-Package: xyz.cypwn.designer
-Architecture: iphoneos-arm64
-Version: 1.5
-Section: Addons (Tweaks)
-Maintainer: CyPwn
-Installed-Size: 1024
-Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
-Filename: ./debs/xyz.cypwn.designer_1.5.deb
-Size: 8220806
-MD5sum: cb9fd6bb2aae3a8afd3ac99176627403
-SHA1: b444e6d13a080290c28815d1a4e232e780c20208
-SHA256: 6ad783451d699f042fc6addf3e893e67416571bed6e10c491f08ca701e372757
-SHA512: 69fef902840c1349babbbd99fb33c5773ecad3dcc197720e365265e4bb52f23f2d8c3f1ddfc61d134db537a81c234e176c657bbd6aa7218b758e4ebaf8679ffc
-Description: Design layouts for lockscreen and homescreen
-Depiction: https://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/designer
-SileoDepiction: https://www.junesiphone.com/supersecret/depiction-s/designer.json
-Name: Designer
-Author: JunesiPhone
-Sponsor: 
-Icon: 
 
 Package: xyz.cypwn.flex3
 Architecture: iphoneos-arm64
