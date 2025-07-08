@@ -1,6 +1,14 @@
+Package: unknown
+Version: 1.0
+Architecture: iphoneos-arm
+Description: No description
 Filename: debs/xyz.cypwn.calculatorconverter_1.0.deb
 Size: 98186
 
+Package: unknown
+Version: 1.0
+Architecture: iphoneos-arm
+Description: No description
 Filename: debs/xyz.cypwn.calculatorhistory_1.2.deb
 Size: 43458
 
