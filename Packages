@@ -1,15 +1,42 @@
 Package: xyz.cypwn.calculatorconverter
+Architecture: iphoneos-arm64
 Version: 1.0
-Architecture: iphoneos-arm
-Description: Máy tính có chức năng chuyển đổi đơn vị
-Filename: debs/xyz.cypwn.calculatorconverter_1.0.deb
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/xyz.cypwn.calculatorconverter_1.0.deb
 Size: 98186
+MD5sum: 4db783e0cfe02c656c7b302f615a9218
+SHA1: 5a2675fe762e74e292042e1804d0a8c41322b35b
+SHA256: e73d8658940e2626d6797614f39a289039ded495508b5a44abadab013f74eda3
+SHA512: 9093deddfa77f220bebd64779a03a36bd1f904d5310749dbb3779155e83eabf4b2a557850bcc80c06691b13fabb1d56cc3d5962c3814ec7c89ea8960b71c0db4
+Description: Add iOS 18 unit conversion to the Calculator app.
+Depiction: https://repo.cypwn.xyz/depiction/3266
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3266
+Name: CalculatorConverter
+Author: fiore
+Sponsor: 
+Icon: https://repo.cypwn.xyz/packages/CalculatorConverter-Rootless/icon.png
 
 Package: xyz.cypwn.calculatorhistory
+Architecture: iphoneos-arm64
 Version: 1.2
-Architecture: iphoneos-arm
-Description: Hiển thị lịch sử tính toán gần nhất
-Filename: debs/xyz.cypwn.calculatorhistory_1.2.deb
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/xyz.cypwn.calculatorhistory_1.2.deb
 Size: 43458
-
+MD5sum: c44373ea28b55ca29fe0131910c5dec7
+SHA1: 38da3c8aebbf52bed7970ddef1b03b138c29f689
+SHA256: 8e7f8e6667ad756a407bc7879fb187cea059dd6010fb8ae0ae5c5c80db8464a8
+SHA512: fd7471e72f5947d033f0c7794cb55fd7d686ae46ae8500181214dc34b02f14505f39f4f32b35564c44783545bfb50cc1dbc05832612d6a8aa3bc6e0999a26ebf
+Description: Calculator gains history!
+Depiction: https://repo.cypwn.xyz/depiction/3267
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3267
+Name: CalculatorHistory
+Author: fiore
+Sponsor: 
+Icon: https://repo.cypwn.xyz/packages/CalculatorHistory-Rootless/icon.png
 
