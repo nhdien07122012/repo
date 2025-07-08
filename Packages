@@ -1,5 +1,5 @@
 Package: com.bvn.susudaynightswitch
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Version: 1.0.5
 Section: Tweaks
 Maintainer: Bvn repo
@@ -187,7 +187,8 @@ Sponsor:
 Icon: https://repo.cypwn.xyz/packages/CalculatorHistory-Rootless/icon.png
 
 Package: xyz.cypwn.cask3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
+Version: 1.0
 Version: 1.0.0
 Section: Tweaks
 Maintainer: CyPwn
