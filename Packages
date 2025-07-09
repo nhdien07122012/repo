@@ -1,6 +1,6 @@
 Package: com.thuthuatjb.appdataplus
 Architecture: iphoneos-arm64
-Version: 1.4.0-p
+Version: 1.4.0-DN
 Section: Tweaks
 Maintainer: TTJB Team <admin@thuthuatjb.com>
 Installed-Size: 2412
@@ -17,5 +17,5 @@ SileoDepiction: http://nhdien07122012.github.io/repo/descriptions/appdataplus/ap
 Name: AppData+(DN)
 Author: Fouad Raheb & Netskao
 Sponsor: 
-Icon: https://nhdien07122012.io/repo/icon-tweak.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinh/icon-tweak.png
 
