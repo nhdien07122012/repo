@@ -17,17 +17,17 @@ SileoDepiction: http://nhdien07122012.github.io/repo/descriptions/appdataplus/ap
 Name: AppData+(DN)
 Author: Fouad Raheb & Netskao
 Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 
 Package: com.diennguyen.iconrepo-DN
 Architecture: iphoneos-arm64
 Version: 1.0-DN
 Section: Tweaks
 Maintainer: Diễn Nguyễn
-Installed-Size: 123
+Installed-Size: 2412
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.diennguyen.iconrepo-DN_1.0.deb
-Size: 123
+Filename: ./debs/com.diennguyen.iconrepo-DN_1.0-DN.deb
+Size: 1014254
 MD5sum: 8f0355e29d1fc5aa9303eb0124202f5a
 SHA1: 33015ceb40587278e52ec96950ea8a501dae5da3
 SHA256: 0145622e2fb76d8bc5b9bb625f86d3353b119639c711109615e354ef2c1ae52d
@@ -38,4 +38,4 @@ SileoDepiction:
 Name: IconRepo(DN)
 Author: Diễn Nguyễn
 Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
