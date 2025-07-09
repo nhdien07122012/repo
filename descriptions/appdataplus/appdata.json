@@ -2,16 +2,16 @@
   "minVersion": "0.1",
   "class": "DepictionTabView",
   "tintColor": "#0080ff",
-  "headerImage": "/repo/sileo.pn",
+  "headerImage": "/repo/sileo.png",
   "tabs": [
     {
-      "tabname": "Vuốt xuống để xem mô tả",
+      "tabname": "Mô tả",
       "class": "DepictionStackView",
       "tintColor": "#0080ff",
       "views": [
         {
           "class": "DepictionStackView",
-          "backgroundColor": "#ffffff",
+          "backgroundColor": "#0080ff",
           "views": [
             {
               "class": "DepictionMarkdownView",
@@ -103,7 +103,7 @@
         },
         {
           "class": "DepictionImageView",
-          "URL": "https://nhdien07122012.io/repo/CydiaIcon.png",
+          "URL": "./repo/CydiaIcon.png",
           "height": 48,
           "width": 48,
           "alignment": 1,
@@ -112,11 +112,6 @@
         {
           "class": "DepictionSpacerView",
           "spacing": 4
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<small style=\"color: #aaa; font-size: 10pt;\">© 2018-2023 TTJB Team - Lan toả niềm đam mê Jailbreak iOS/iPadOS</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true
         },
         {
           "class": "DepictionSpacerView",
