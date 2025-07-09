@@ -1,11 +1,11 @@
-Package: com.thuthuatjb.appdataplus
+Package: com.diennguyen.appdataplus
 Architecture: iphoneos-arm64
 Version: 1.4.0-DN
 Section: Tweaks
-Maintainer: TTJB Team <admin@thuthuatjb.com>
+Maintainer: Diễn Nguyễn
 Installed-Size: 2412
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.thuthuatjb.iconrepo.rootless
-Filename: ./debs/com.thuthuatjb.appdataplus_1.4.0-p.deb
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.diennguyen.iconrepo.rootless
+Filename: ./debs/com.diennguyen.appdataplus_1.4.0-DN.deb
 Size: 1014254
 MD5sum: 8f0355e29d1fc5aa9303eb0124202f5a
 SHA1: 33015ceb40587278e52ec96950ea8a501dae5da3
