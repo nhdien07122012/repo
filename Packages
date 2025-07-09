@@ -4,7 +4,7 @@ Version: 1.4.0-DN
 Section: Tweaks
 Maintainer: Diễn Nguyễn
 Installed-Size: 2412
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.diennguyen.iconrepo.rootless
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.diennguyen.iconrepo-DN
 Filename: ./debs/com.diennguyen.appdataplus_1.4.0-DN.deb
 Size: 1014254
 MD5sum: 8f0355e29d1fc5aa9303eb0124202f5a
@@ -17,5 +17,27 @@ SileoDepiction: http://nhdien07122012.github.io/repo/descriptions/appdataplus/ap
 Name: AppData+(DN)
 Author: Fouad Raheb & Netskao
 Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh/icon-tweak.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.iconrepo-DN
+Architecture: iphoneos-arm64
+Version: 1.0-DN
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 2412
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.diennguyen.iconrepo-DN_1.0-DN.deb
+Size: 1014254
+MD5sum: 8f0355e29d1fc5aa9303eb0124202f5a
+SHA1: 33015ceb40587278e52ec96950ea8a501dae5da3
+SHA256: 0145622e2fb76d8bc5b9bb625f86d3353b119639c711109615e354ef2c1ae52d
+SHA512: 8b999d808aa8eadf5b743380567ae448952691dc4b76f00dfaecfe72105dbfb67dc4693ba4fb0016cc252801dc02b9e479ecdc1ed0fb562de8a5c25eadae8200
+Description: Icon Repo của Diễn Nguyễn.
+Depiction: 
+SileoDepiction: 
+Name: IconRepo(DN)
+Author: Diễn Nguyễn
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
 
