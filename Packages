@@ -54,10 +54,9 @@ SHA256: 0145622e2fb76d8bc5b9bb625f86d3353b119639c711109615e354ef2c1ae52d
 SHA512: 8b999d808aa8eadf5b743380567ae448952691dc4b76f00dfaecfe72105dbfb67dc4693ba4fb0016cc252801dc02b9e479ecdc1ed0fb562de8a5c25eadae8200
 Description: Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.
 Depiction: https://nhdien07122012.github.io/repo/descriptions/day-night/day-night-tweak.html
-SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/day-night/day-night-tweak.html
+SileoDepiction: https://nhdien07122012.github.io/repo/sileodepictions/appdataplus.json
 Name: AppData Plus
 Author: Fouad Raheb & Netskao
-Sponsor: 
 Icon: https://nhdien07122012.github.io/repo/descriptions/day-night/icon-tweak.png
 
 Package: net.kenhtao.trapp.jb

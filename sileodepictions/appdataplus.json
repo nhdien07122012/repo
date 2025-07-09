@@ -1,0 +1,114 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://nhdien07122012.github.io/repo/descriptions/day-night/header.png",
+  "tintColor": "#00A0FF",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "AppData Plus"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Quản lý dữ liệu ứng dụng từ màn hình chính**\n\n- Phiên bản được bổ sung thêm chức năng tiện lợi.\n- Truy cập nhanh dữ liệu ứng dụng.\n- Hỗ trợ iOS 15 trở lên.\n\nKhông cần mở Cài đặt – thao tác trực tiếp từ Màn hình chính.\n\nㅤ"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://nhdien07122012.github.io/repo/descriptions/day-night/screenshot1.png",
+              "accessibilityText": "Screenshot 1"
+            },
+            {
+              "url": "https://nhdien07122012.github.io/repo/descriptions/day-night/screenshot2.png",
+              "accessibilityText": "Screenshot 2"
+            }
+          ],
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 340}"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tên tweak",
+          "text": "AppData Plus"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "1.4.0-p"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Nhà phát triển",
+          "text": "Fouad Raheb & Netskao"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Đăng tải",
+          "text": "TTJB Team"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Dung lượng",
+          "text": "1.01 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Yêu cầu",
+          "text": "iOS 15.0 trở lên"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phụ thuộc",
+          "text": "mobilesubstrate, preferenceloader"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tương thích",
+          "text": "Rootless"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "© 2024 by TTJB Team",
+          "textColor": "#999999",
+          "fontSize": 10,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Nhật ký",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 1.4.0-p\n\n- Hỗ trợ Rootless\n- Thêm shortcut thao tác\n- Tối ưu hiệu suất"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "© 2024 by TTJB Team",
+          "textColor": "#999999",
+          "fontSize": 10,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
