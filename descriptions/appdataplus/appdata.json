@@ -2,7 +2,7 @@
   "minVersion": "0.1",
   "class": "DepictionTabView",
   "tintColor": "#0080ff",
-  "headerImage": "/repo/sileo.png",
+  "headerImage":"https://nhdien07122012.github.io/repo/sileo.png",
   "tabs": [
     {
       "tabname": "Mô tả",
@@ -57,19 +57,6 @@
               "cornerRadius": 12
             }
           ]
-        },
-        {
-          "class": "DepictionAdmobView",
-          "adUnitID": "ca-app-pub-9689973964248496/5297402136",
-          "adSize": "SmartBanner",
-          "adAppID": "ca-app-pub-9689973964248496~1758091302"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
         },
         {
           "class": "DepictionMarkdownView",
