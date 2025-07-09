@@ -2,7 +2,7 @@
   "minVersion": "0.1",
   "class": "DepictionTabView",
   "tintColor": "#0080ff",
-  "headerImage": "sileo.png",
+  "headerImage": "/repo/sileo.pn",
   "tabs": [
     {
       "tabname": "Vuốt xuống để xem mô tả",
@@ -39,9 +39,22 @@
             },
             {
               "class": "DepictionTableButtonView",
-              "title": "Ủng hộ chúng tôi",
-              "action": "https://thuthuatjb.com/donate",
-              "openExternal": true
+              "title": "Ủng hộ tôi qua Momo",
+              "action": {
+                "class": "DepictionAlertView",
+                "title": "Ủng hộ qua Momo",
+                "text": "SĐT: 039.9962.032\nTên: Nguyễn Diễn",
+                "cancelButton": "Đóng"
+              },
+              "openExternal": false
+            },
+            {
+              "class": "DepictionImageView",
+              "URL": "https://nhdien07122012.github.io/repo/images/momo_qr.png",
+              "height": 200,
+              "width": 200,
+              "alignment": 1,
+              "cornerRadius": 12
             }
           ]
         },
