@@ -58,7 +58,7 @@ SileoDepiction: http://nhdien07122012.github.io/repo/descriptions/appdataplus/ap
 Name: AppData+(DN)
 Author: Fouad Raheb & Netskao
 Sponsor: 
-Icon: icon-tweak.png
+Icon: https://nhdien07122012.io/repo/icon-tweak.png
 
 Package: net.kenhtao.trapp.jb
 Architecture: iphoneos-arm64

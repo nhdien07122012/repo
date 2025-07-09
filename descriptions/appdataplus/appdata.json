@@ -1,1 +1,115 @@
-{"minVersion":"0.1","class":"DepictionTabView","tintColor":"#ff4500","headerImage":"https://thuthuatjb.com/wp-content/uploads/2021/08/thuthuatjb-images-banner-2020.jpg","tabs":[{"tabname":"Vuốt lên để xem thông tin","class":"DepictionStackView","tintColor":"#ff4500","views":[{"class":"DepictionStackView","backgroundColor":"#23a352","views":[{"class":"DepictionMarkdownView","tintColor":"#ffffff","markdown":"<style>body { color: white; text-align: center; }<\/style><br><strong>Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.<\/strong><br>&nbsp;","useRawFormat":true,"useSpacing":false}]},{"class":"DepictionStackView","views":[{"class":"DepictionTableButtonView","title":"Xem mô tả gói tại đây","action":"https://repo.thuthuatjb.com/index.php?pid=641","openExternal":false},{"class":"DepictionTableButtonView","title":"Theo dõi @thuthuatjb trên Facebook","action":"https://facebook.com/thuthuatjb","openExternal":true},{"class":"DepictionTableButtonView","title":"Theo dõi @thuthuatjb trên Twitter","action":"https://twitter.com/thuthuatjb","openExternal":true} , {"class":"DepictionTableButtonView","title":"Ủng hộ chúng tôi","action":"https://thuthuatjb.com/donate","openExternal":true}]},{"class":"DepictionAdmobView","adUnitID":"ca-app-pub-9689973964248496/5297402136","adSize":"SmartBanner","adAppID":"ca-app-pub-9689973964248496~1758091302"},{"class":"DepictionSeparatorView"},{"class": "DepictionSpacerView","spacing": 8},{"useBottomMargin": false,"markdown": "TTJB Repo không chứa các tweak vi phạm bản quyền, độc hại hoặc chứa mã độc. Cảm ơn đã sử dụng TTJB Repo","class": "DepictionMarkdownView","useBoldText": true,"title": "markdown-description"},{"class": "DepictionSeparatorView"},{"class":"DepictionAdmobView","adUnitID":"ca-app-pub-9689973964248496/5297402136","adAppID":"ca-app-pub-9689973964248496~1758091302"},{"class":"DepictionAdmobView","adUnitID":"ca-app-pub-9689973964248496/5297402136","adSize":"LargeBanner","adAppID":"ca-app-pub-9689973964248496~1758091302"},{"class":"DepictionSpacerView","spacing":16},{"markdown":"<small style=\"color: #aaa; font-size: 10pt;\">TTJB Repo - Kho lưu trữ tweak của Thủ Thuật Jailbreak</small><style>body { text-align: center; }</style>","useRawFormat":true,"class":"DepictionMarkdownView"},{"class":"DepictionImageView","URL":"https://repo.thuthuatjb.com/CydiaIcon.png","height":48,"width":48,"alignment":1,"cornerRadius":0},{"class":"DepictionSpacerView","spacing":4},{"markdown":"<small style=\"color: #aaa; font-size: 10pt;\">© 2018-2023 TTJB Team - Lan toả niềm đam mê Jailbreak iOS/iPadOS</small><style>body { text-align: center; }</style>","useRawFormat":true,"class":"DepictionMarkdownView"},{"class":"DepictionSpacerView","spacing":4}]}]}
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#0080ff",
+  "headerImage": "sileo.png",
+  "tabs": [
+    {
+      "tabname": "Vuốt xuống để xem mô tả",
+      "class": "DepictionStackView",
+      "tintColor": "#0080ff",
+      "views": [
+        {
+          "class": "DepictionStackView",
+          "backgroundColor": "#ffffff",
+          "views": [
+            {
+              "class": "DepictionMarkdownView",
+              "tintColor": "#ffffff",
+              "markdown": "<style>body { color: white; text-align: center; }</style><br><strong>Ủng hộ tôi qua Momo: 039.9962.032</strong><br>&nbsp;",
+              "useRawFormat": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionStackView",
+          "views": [
+            {
+              "class": "DepictionTableButtonView",
+              "title": "Xem mô tả gói tại đây",
+              "action": "http://nhdien07122012.github.io/repo/descriptions/appdataplus/appdata.html",
+              "openExternal": false
+            },
+            {
+              "class": "DepictionTableButtonView",
+              "title": "Theo dõi tôi trên Facebook",
+              "action": "https://www.facebook.com/nhdien07122012/",
+              "openExternal": true
+            },
+            {
+              "class": "DepictionTableButtonView",
+              "title": "Ủng hộ chúng tôi",
+              "action": "https://thuthuatjb.com/donate",
+              "openExternal": true
+            }
+          ]
+        },
+        {
+          "class": "DepictionAdmobView",
+          "adUnitID": "ca-app-pub-9689973964248496/5297402136",
+          "adSize": "SmartBanner",
+          "adAppID": "ca-app-pub-9689973964248496~1758091302"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "useBottomMargin": false,
+          "markdown": "Một repo nhỏ của tôi dùng để lưu trữ tweak của tôi. Repo này được tạo ra với mục đích chia sẻ tweak với cộng đồng và giúp người dùng dễ dàng cài đặt các tweak yêu thích.",
+          "useBoldText": true,
+          "title": "markdown-description"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionAdmobView",
+          "adUnitID": "ca-app-pub-9689973964248496/5297402136",
+          "adAppID": "ca-app-pub-9689973964248496~1758091302"
+        },
+        {
+          "class": "DepictionAdmobView",
+          "adUnitID": "ca-app-pub-9689973964248496/5297402136",
+          "adSize": "LargeBanner",
+          "adAppID": "ca-app-pub-9689973964248496~1758091302"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<small style=\"color: #aaa; font-size: 10pt;\">Diễn Nguyễn Repository</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://nhdien07122012.io/repo/CydiaIcon.png",
+          "height": 48,
+          "width": 48,
+          "alignment": 1,
+          "cornerRadius": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 4
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<small style=\"color: #aaa; font-size: 10pt;\">© 2018-2023 TTJB Team - Lan toả niềm đam mê Jailbreak iOS/iPadOS</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 4
+        }
+      ]
+    }
+  ]
+}
