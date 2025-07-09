@@ -19,23 +19,23 @@ Author: Fouad Raheb & Netskao
 Sponsor: 
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
-Package: com.diennguyen.iconrepo-DN
-Architecture: iphoneos-arm64
-Version: 1.0-DN
-Section: Tweaks
+Package: com.diennguyen.iconrepo
+Architecture: iphoneos-arm
+Version: 3.0
+Section: System
 Maintainer: Diễn Nguyễn
-Installed-Size: 123
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.diennguyen.iconrepo-DN_1.0.deb
-Size: 123
-MD5sum: 8f0355e29d1fc5aa9303eb0124202f5a
-SHA1: 33015ceb40587278e52ec96950ea8a501dae5da3
-SHA256: 0145622e2fb76d8bc5b9bb625f86d3353b119639c711109615e354ef2c1ae52d
-SHA512: 8b999d808aa8eadf5b743380567ae448952691dc4b76f00dfaecfe72105dbfb67dc4693ba4fb0016cc252801dc02b9e479ecdc1ed0fb562de8a5c25eadae8200
-Description: Icon Repo của Diễn Nguyễn.
-Depiction: 
-SileoDepiction: 
-Name: IconRepo(DN)
-Author: Diễn Nguyễn
-Sponsor: 
+Installed-Size: 1024
+Filename: ./debs/com.diennguyen.iconrepo-DN.deb
+Size: 37852
+MD5sum: 93a08111626f52db15bf60db95c06b0c
+SHA1: f27a9f37f0a3690cadbaba9b11c19332f55ddf1f
+SHA256: 35ed132e8809dfd76e9d240986ce7415d10fb9bd23eab21868b8abe86f4999ee
+SHA512: 6a6c2248c587b1579dd7f2d41fbf26c84b91f893e9124916a63a93b4b071be81a37ae009585fdb59065c8c5921a629547743847310ce0d89952581bbee0808cf
+Description: Gói iCon cho nguồn TTJB Repo
+Depiction: https://repo.thuthuatjb.com/index.php?pid=314
+SileoDepiction: https://repo.thuthuatjb.com/sileo/com.thuthuatjb.iconrepo.json
+Name: Diễn Nguyễn Icon Repo
+Author: Diễn Nguyễn 
+Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
