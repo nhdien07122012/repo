@@ -18,24 +18,3 @@ Name: AppData+(DN)
 Author: Fouad Raheb & Netskao
 Sponsor: 
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
-
-Package: com.thuthuatjb.iconrepo
-Architecture: iphoneos-arm
-Version: 3.0
-Section: System
-Maintainer: TTJB Team <admin@thuthuatjb.com>
-Installed-Size: 1024
-Filename: ./debs/com.diennguyen.iconrepo-DN.deb
-Size: 37852
-MD5sum: 93a08111626f52db15bf60db95c06b0c
-SHA1: f27a9f37f0a3690cadbaba9b11c19332f55ddf1f
-SHA256: 35ed132e8809dfd76e9d240986ce7415d10fb9bd23eab21868b8abe86f4999ee
-SHA512: 6a6c2248c587b1579dd7f2d41fbf26c84b91f893e9124916a63a93b4b071be81a37ae009585fdb59065c8c5921a629547743847310ce0d89952581bbee0808cf
-Description: Gói iCon cho nguồn TTJB Repo
-Depiction: https://repo.thuthuatjb.com/index.php?pid=314
-SileoDepiction: https://repo.thuthuatjb.com/sileo/com.thuthuatjb.iconrepo.json
-Name: TTJB Icon Repo
-Author: TTJB Repo <admin@thuthuatjb.com>
-Sponsor: TTJB Team <admin@thuthuatjb.com>
-Icon: 
-
