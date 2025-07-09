@@ -51,8 +51,8 @@
             {
               "class": "DepictionImageView",
               "URL": "https://nhdien07122012.github.io/repo/images/momo_qr.png",
-              "height": 200,
-              "width": 200,
+              "height": 250,
+              "width": 250,
               "alignment": 1,
               "cornerRadius": 12
             }
@@ -85,14 +85,14 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<small style=\"color: #aaa; font-size: 10pt;\">Diễn Nguyễn Repository</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #0080ff; font-size: 15pt;\">Diễn Nguyễn Repository</small><style>body { text-align: center; }</style>",
           "useRawFormat": true
         },
         {
           "class": "DepictionImageView",
           "URL": "https://nhdien07122012.github.io/repo/CydiaIcon.png",
-          "height": 48,
-          "width": 48,
+          "height": 80,
+          "width": 80,
           "alignment": 1,
           "cornerRadius": 0
         },
