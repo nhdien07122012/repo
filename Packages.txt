@@ -19,3 +19,24 @@ Author: Fouad Raheb & Netskao
 Sponsor: 
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 
+Package: xyz.cypwn.cc26
+Architecture: iphoneos-arm64
+Version: 0.4.3b
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Filename: ./debs/com.diennguyen.cc26_0.4.3-DN.deb
+Size: 21624
+MD5sum: 9b5460fafce6d69b352ca7ccf948f184
+SHA1: 388fd99370a16df68151b19dae0e5a9dbeb04d44
+SHA256: 7f754b96a393ec06437f4a2766bcb9336eb519a47a2994a8aec123424da6a0f2
+SHA512: 95e5ac10a82de89e91febc381d91b701b9f691453fe6026e714410575355196f36a45cc07f90758378ea90eb7260cac56a41662b1156aa8a138a5163ffdf804e
+Description: A sleek reimagination of Control Center
+Depiction: https://repo.cypwn.xyz/depiction/3247
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3247
+Name: CC26
+Author: therealhoodboy
+Sponsor: 
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+
