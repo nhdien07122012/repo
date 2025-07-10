@@ -48,11 +48,11 @@ Maintainer: Diễn Nguyễn
 Installed-Size: 240
 Depends: mobilesubstrate
 Filename: ./debs/com.diennguyen.calculatorhistory_1.2-DN.deb
-Size: 43458
-MD5sum: c44373ea28b55ca29fe0131910c5dec7
-SHA1: 38da3c8aebbf52bed7970ddef1b03b138c29f689
-SHA256: 8e7f8e6667ad756a407bc7879fb187cea059dd6010fb8ae0ae5c5c80db8464a8
-SHA512: fd7471e72f5947d033f0c7794cb55fd7d686ae46ae8500181214dc34b02f14505f39f4f32b35564c44783545bfb50cc1dbc05832612d6a8aa3bc6e0999a26ebf
+Size: 24240
+MD5sum: a6d10edbf3bb13b411e0d7ff2583d46d
+SHA1: 4ec0b44572c09e4e92db8f3cc16f8a3e42329042
+SHA256: bf6ec319091e00e01a390c4359b0d404a59f01fa3a38f06e05eee2eaba5f448f
+SHA512: e84ec28acfdd7774a7cd2548203cb8a7b1cbe40574dcf72352f5ce3f2c5bbb8d2c88c46c44c610fae16c0c83fbfb7129a37e3bb6a7e997e3e379f9371b0d7981
 Description: Calculator gains history!
 Depiction: https://nhdien07122012.github.io/repo/descriptions/calculatorhistory/calculatorhistory.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/calculatorhistory/depiction.json
