@@ -35,7 +35,7 @@ SHA512: 95e5ac10a82de89e91febc381d91b701b9f691453fe6026e714410575355196f36a45cc0
 Description: Mang giao diện Control Center của iOS 26 trở về iOS cũ.
 Depiction: https://nhdien07122012.github.io/repo/descriptions/cc26/cc26.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/cc26/cc26.json
-Name: CC26
+Name: CC26(DN)
 Author: therealhoodboy
 Sponsor: 
 Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
