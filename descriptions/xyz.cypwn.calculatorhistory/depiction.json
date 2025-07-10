@@ -1,0 +1,11 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionStackView",
+  "tabs": [
+    {
+      "tabname": "Mô tả",
+      "class": "DepictionMarkdownView",
+      "markdown": "Calculator gains history!"
+    }
+  ]
+}

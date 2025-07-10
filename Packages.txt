@@ -12,10 +12,52 @@ SHA1: 33015ceb40587278e52ec96950ea8a501dae5da3
 SHA256: 0145622e2fb76d8bc5b9bb625f86d3353b119639c711109615e354ef2c1ae52d
 SHA512: 8b999d808aa8eadf5b743380567ae448952691dc4b76f00dfaecfe72105dbfb67dc4693ba4fb0016cc252801dc02b9e479ecdc1ed0fb562de8a5c25eadae8200
 Description: Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.
-Depiction: https://repo.thuthuatjb.com/index.php?pid=641
-SileoDepiction: https://repo.thuthuatjb.com/sileo/com.thuthuatjb.appdataplus.json
+Depiction: https://nhdien07122012.github.io/repo/descriptions/com.thuthuatjb.appdataplus/
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/com.thuthuatjb.appdataplus/depiction.json
 Name: AppData Plus
 Author: Fouad Raheb & Netskao
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: xyz.cypwn.calculatorconverter
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.diennguyen.calculatorconverter_1.0-DN.deb
+Size: 98186
+MD5sum: 4db783e0cfe02c656c7b302f615a9218
+SHA1: 5a2675fe762e74e292042e1804d0a8c41322b35b
+SHA256: e73d8658940e2626d6797614f39a289039ded495508b5a44abadab013f74eda3
+SHA512: 9093deddfa77f220bebd64779a03a36bd1f904d5310749dbb3779155e83eabf4b2a557850bcc80c06691b13fabb1d56cc3d5962c3814ec7c89ea8960b71c0db4
+Description: Add iOS 18 unit conversion to the Calculator app.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/xyz.cypwn.calculatorconverter/
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/xyz.cypwn.calculatorconverter/depiction.json
+Name: CalculatorConverter
+Author: fiore
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: xyz.cypwn.calculatorhistory
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.diennguyen.calculatorhistory_1.2-DN.deb
+Size: 43458
+MD5sum: c44373ea28b55ca29fe0131910c5dec7
+SHA1: 38da3c8aebbf52bed7970ddef1b03b138c29f689
+SHA256: 8e7f8e6667ad756a407bc7879fb187cea059dd6010fb8ae0ae5c5c80db8464a8
+SHA512: fd7471e72f5947d033f0c7794cb55fd7d686ae46ae8500181214dc34b02f14505f39f4f32b35564c44783545bfb50cc1dbc05832612d6a8aa3bc6e0999a26ebf
+Description: Calculator gains history!
+Depiction: https://nhdien07122012.github.io/repo/descriptions/xyz.cypwn.calculatorhistory/
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/xyz.cypwn.calculatorhistory/depiction.json
+Name: CalculatorHistory
+Author: fiore
 Sponsor: 
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 
@@ -33,10 +75,10 @@ SHA1: 388fd99370a16df68151b19dae0e5a9dbeb04d44
 SHA256: 7f754b96a393ec06437f4a2766bcb9336eb519a47a2994a8aec123424da6a0f2
 SHA512: 95e5ac10a82de89e91febc381d91b701b9f691453fe6026e714410575355196f36a45cc07f90758378ea90eb7260cac56a41662b1156aa8a138a5163ffdf804e
 Description: A sleek reimagination of Control Center
-Depiction: https://repo.cypwn.xyz/depiction/3247
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3247
+Depiction: https://nhdien07122012.github.io/repo/descriptions/xyz.cypwn.cc26/
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/xyz.cypwn.cc26/depiction.json
 Name: CC26
 Author: therealhoodboy
 Sponsor: 
-Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 

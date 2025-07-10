@@ -330,7 +330,7 @@ h3 {
 
 .footer {
 	margin-top: 20px;
-	font-family: roboto, sans-serif;
+	font-family: Roboto;
 	font-weight: regular;
 }
 
@@ -413,7 +413,7 @@ a:focus {
 
 .fa,
 .fas {
-	font-family: "Font Awesome 5 Free";
+	
 	font-weight: 900;
 }
 
@@ -493,6 +493,7 @@ a.pkg-button.cydia {
 	display: flex;
 	column-gap: 20px;
 	justify-content: space-between;
+	font-family: Roboto;
 }
 
 red{

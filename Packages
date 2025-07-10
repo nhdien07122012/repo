@@ -38,5 +38,25 @@ SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/cc26/cc26.jso
 Name: CC26(DN)
 Author: therealhoodboy
 Sponsor: 
-Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 
+Package: com.diennguyen.calculatorconverter
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.diennguyen.calculatorconverter_1.0-DN.deb
+Size: 98186
+MD5sum: 4db783e0cfe02c656c7b302f615a9218
+SHA1: 5a2675fe762e74e292042e1804d0a8c41322b35b
+SHA256: e73d8658940e2626d6797614f39a289039ded495508b5a44abadab013f74eda3
+SHA512: 9093deddfa77f220bebd64779a03a36bd1f904d5310749dbb3779155e83eabf4b2a557850bcc80c06691b13fabb1d56cc3d5962c3814ec7c89ea8960b71c0db4
+Description: Add iOS 18 unit conversion to the Calculator app.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/xyz.cypwn.calculatorconverter/
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/xyz.cypwn.calculatorconverter/depiction.json
+Name: CalculatorConverter(DN)
+Author: fiore
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
