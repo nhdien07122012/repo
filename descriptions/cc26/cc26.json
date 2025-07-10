@@ -28,7 +28,7 @@
             {
               "class": "DepictionTableButtonView",
               "title": "Xem mô tả gói tại đây",
-              "action": "http://nhdien07122012.github.io/repo/descriptions/appdataplus/appdata.html",
+              "action": "http://nhdien07122012.github.io/repo/descriptions/cc26/cc26.html",
               "openExternal": false
             },
             {
@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "Một repo nhỏ của tôi dùng để lưu trữ tweak của tôi. Repo này được tạo ra với mục đích chia sẻ tweak với cộng đồng và giúp người dùng dễ dàng cài đặt các tweak yêu thích.",
+          "markdown": "Mang giao diện Control Center của iOS 26 trở về iOS cũ.",
           "useBoldText": true,
           "title": "markdown-description"
         },

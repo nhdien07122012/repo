@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "Một repo nhỏ của tôi dùng để lưu trữ tweak của tôi. Repo này được tạo ra với mục đích chia sẻ tweak với cộng đồng và giúp người dùng dễ dàng cài đặt các tweak yêu thích.",
+          "markdown": "Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.",
           "useBoldText": true,
           "title": "markdown-description"
         },
