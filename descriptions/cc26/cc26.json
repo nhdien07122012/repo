@@ -2,7 +2,7 @@
   "minVersion": "0.1",
   "class": "DepictionTabView",
   "tintColor": "#0080ff",
-  "headerImage":"https://nhdien07122012.github.io/repo/sileo.png",
+  "headerImage": "https://nhdien07122012.github.io/repo/sileo.png",
   "tabs": [
     {
       "tabname": "Mô tả",
@@ -98,6 +98,56 @@
         {
           "class": "DepictionSpacerView",
           "spacing": 4
+        }
+      ]
+    },
+    {
+      "tabname": "Nhật ký thay đổi",
+      "class": "DepictionStackView",
+      "tintColor": "#0080ff",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 1.0.0\n- Phát hành tweak hỗ trợ iOS cũ\n- Thêm giao diện mới giống iOS 26",
+          "useRawFormat": true
+        }
+      ]
+    },
+    {
+      "tabname": "Liên hệ",
+      "class": "DepictionStackView",
+      "tintColor": "#0080ff",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Bạn có thể liên hệ với tôi qua các nền tảng sau:**",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Facebook cá nhân",
+          "action": "https://www.facebook.com/nhdien07122012/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Email",
+          "action": {
+            "class": "DepictionAlertView",
+            "title": "Email liên hệ",
+            "text": "nguyendien@example.com",
+            "cancelButton": "Đóng"
+          }
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Số điện thoại",
+          "action": {
+            "class": "DepictionAlertView",
+            "title": "SĐT liên hệ",
+            "text": "039.9962.032",
+            "cancelButton": "Đóng"
+          }
         }
       ]
     }
