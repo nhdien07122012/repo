@@ -125,7 +125,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Liên hệ với tôi với các thông tin sau:",
+          "markdown": "### Liên hệ với tôi qua các nền tảng bên dưới:",
           "useRawFormat": true
         },
         {
@@ -137,25 +137,21 @@
         {
           "class": "DepictionTableButtonView",
           "title": "Twitter cá nhân",
-          "action": "https://twitter.com/nhdien07122012",
+          "action": "https://x.com/nguyenhoaidien?s=21",
           "openExternal": true
         },
         {
           "class": "DepictionTableButtonView",
           "title": "Telegram cá nhân",
-          "action": "https://t.me/nhdien07122012",
+          "action": "https://t.me/diennguyenhoai",
           "openExternal": true
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "Email liên hệ",
-          "action": {
-            "class": "DepictionAlertView",
-            "title": "Email liên hệ",
-            "text": "nhdien07122012@gmail.com",
-            "cancelButton": "Đóng"
-          }
-        },
+          "title": "Zalo cá nhân",
+          "action": "https://zalo.me/0399962032",
+          "openExternal": true
+        }
       ]
     }
   ]
