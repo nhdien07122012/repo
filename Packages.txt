@@ -1,8 +1,29 @@
-Package: xyz.cypwn.calculatorconverter
+Package: com.diennguyen.com.thuthuatjb.appdataplus
+Architecture: iphoneos-arm64
+Version: 1.4.0-p
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 2412
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.thuthuatjb.iconrepo.rootless
+Filename: ./debs/com.diennguyen.appdataplus_1.4.0-DN.deb
+Size: 1014254
+MD5sum: 8f0355e29d1fc5aa9303eb0124202f5a
+SHA1: 33015ceb40587278e52ec96950ea8a501dae5da3
+SHA256: 0145622e2fb76d8bc5b9bb625f86d3353b119639c711109615e354ef2c1ae52d
+SHA512: 8b999d808aa8eadf5b743380567ae448952691dc4b76f00dfaecfe72105dbfb67dc4693ba4fb0016cc252801dc02b9e479ecdc1ed0fb562de8a5c25eadae8200
+Description: Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/appdataplus/depiction.json
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/appdataplus/depiction.json
+Name: AppData Plus
+Author: Fouad Raheb & Netskao
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.xyz.cypwn.calculatorconverter
 Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
-Maintainer: CyPwn
+Maintainer: Diễn Nguyễn
 Installed-Size: 404
 Depends: mobilesubstrate
 Filename: ./debs/com.diennguyen.calculatorconverter_1.0-DN.deb
@@ -19,11 +40,11 @@ Author: fiore
 Sponsor: 
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 
-Package: xyz.cypwn.calculatorhistory
+Package: com.diennguyen.xyz.cypwn.calculatorhistory
 Architecture: iphoneos-arm64
 Version: 1.2
 Section: Tweaks
-Maintainer: CyPwn
+Maintainer: Diễn Nguyễn
 Installed-Size: 240
 Depends: mobilesubstrate
 Filename: ./debs/com.diennguyen.calculatorhistory_1.2-DN.deb
@@ -40,11 +61,11 @@ Author: fiore
 Sponsor: 
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 
-Package: xyz.cypwn.cc26
+Package: com.diennguyen.xyz.cypwn.cc26
 Architecture: iphoneos-arm64
 Version: 0.4.3b
 Section: Tweaks
-Maintainer: CyPwn
+Maintainer: Diễn Nguyễn
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
 Filename: ./debs/com.diennguyen.cc26_0.4.3-DN.deb

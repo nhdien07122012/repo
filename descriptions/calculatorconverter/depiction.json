@@ -74,12 +74,6 @@
           "adAppID": "ca-app-pub-9689973964248496~1758091302"
         },
         {
-          "class": "DepictionAdmobView",
-          "adUnitID": "ca-app-pub-9689973964248496/5297402136",
-          "adSize": "LargeBanner",
-          "adAppID": "ca-app-pub-9689973964248496~1758091302"
-        },
-        {
           "class": "DepictionSpacerView",
           "spacing": 2
         },
@@ -90,10 +84,6 @@
           "width": 200,
           "alignment": 1,
           "cornerRadius": 0
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 4
         },
         {
           "class": "DepictionSpacerView",
