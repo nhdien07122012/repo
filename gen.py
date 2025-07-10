@@ -10,8 +10,8 @@ DEB_FOLDER = "debs"
 OUTPUT_FILE = "Packages.txt"
 BZIP_FILE = "Packages.bz2"
 DESCRIPTION_FOLDER = "descriptions"
-BASE_URL = "https://nhdien07122012.github.io/repo"  # ⚠️ sửa lại domain thật của bạn
-ICON_PATH = "file:///var/jb/Library/IconRepo/tinhchinh.png"  # ✅ icon mặc định cố định
+BASE_URL = "https://nhdien07122012.github.io/repo"
+ICON_PATH = "file:///var/jb/Library/IconRepo/tinhchinh.png"
 
 def extract_control_info_from_deb(deb_path: str) -> Dict[str, str]:
     control_info = {}
@@ -63,19 +63,158 @@ def create_depiction_json(package_id: str, control: Dict[str, str]):
     folder_path = os.path.join(DESCRIPTION_FOLDER, package_id)
     os.makedirs(folder_path, exist_ok=True)
 
+    html_url = f"{BASE_URL}/{DESCRIPTION_FOLDER}/{package_id}/{package_id}.html"
+
     json_file = os.path.join(folder_path, "depiction.json")
     if not os.path.exists(json_file):
         depiction_json = {
             "minVersion": "0.1",
-            "class": "DepictionStackView",
+            "class": "DepictionTabView",
+            "tintColor": "#0080ff",
+            "headerImage": f"{BASE_URL}/sileo.png",
             "tabs": [
                 {
                     "tabname": "Mô tả",
-                    "class": "DepictionMarkdownView",
-                    "markdown": f"{control.get('Description', 'Không có mô tả.')}"
+                    "class": "DepictionStackView",
+                    "tintColor": "#0080ff",
+                    "views": [
+                        {
+                            "class": "DepictionStackView",
+                            "backgroundColor": "#0080ff",
+                            "views": [
+                                {
+                                    "class": "DepictionMarkdownView",
+                                    "tintColor": "#ffffff",
+                                    "markdown": "<style>body { color: white; text-align: center; }</style><br><strong>Ủng hộ tôi qua Momo: 039.9962.032</strong><br>&nbsp;",
+                                    "useRawFormat": True,
+                                    "useSpacing": False
+                                }
+                            ]
+                        },
+                        {
+                            "class": "DepictionStackView",
+                            "views": [
+                                {
+                                    "class": "DepictionTableButtonView",
+                                    "title": "Xem mô tả gói tại đây",
+                                    "action": html_url,
+                                    "openExternal": False
+                                },
+                                {
+                                    "class": "DepictionTableButtonView",
+                                    "title": "Theo dõi tôi trên Facebook",
+                                    "action": "https://www.facebook.com/nhdien07122012/",
+                                    "openExternal": True
+                                },
+                                {
+                                    "class": "DepictionTableButtonView",
+                                    "title": "Ủng hộ tôi qua Momo",
+                                    "action": {
+                                        "class": "DepictionAlertView",
+                                        "title": "Ủng hộ qua Momo",
+                                        "text": "SĐT: 039.9962.032\nTên: Nguyễn Diễn",
+                                        "cancelButton": "Đóng"
+                                    },
+                                    "openExternal": False
+                                },
+                                {
+                                    "class": "DepictionImageView",
+                                    "URL": f"{BASE_URL}/images/momo_qr.png",
+                                    "height": 250,
+                                    "width": 250,
+                                    "alignment": 1,
+                                    "cornerRadius": 12
+                                }
+                            ]
+                        },
+                        {
+                            "class": "DepictionMarkdownView",
+                            "useBottomMargin": False,
+                            "markdown": control.get("Description", "Không có mô tả."),
+                            "useBoldText": True,
+                            "title": "markdown-description"
+                        },
+                        {"class": "DepictionSeparatorView"},
+                        {
+                            "class": "DepictionAdmobView",
+                            "adUnitID": "ca-app-pub-9689973964248496/5297402136",
+                            "adAppID": "ca-app-pub-9689973964248496~1758091302"
+                        },
+                        {
+                            "class": "DepictionAdmobView",
+                            "adUnitID": "ca-app-pub-9689973964248496/5297402136",
+                            "adSize": "LargeBanner",
+                            "adAppID": "ca-app-pub-9689973964248496~1758091302"
+                        },
+                        {"class": "DepictionSpacerView", "spacing": 2},
+                        {
+                            "class": "DepictionImageView",
+                            "URL": f"{BASE_URL}/CydiaIcon1.png",
+                            "height": 200,
+                            "width": 200,
+                            "alignment": 1,
+                            "cornerRadius": 0
+                        },
+                        {"class": "DepictionSpacerView", "spacing": 4},
+                        {"class": "DepictionSpacerView", "spacing": 4}
+                    ]
+                },
+                {
+                    "tabname": "Nhật ký thay đổi",
+                    "class": "DepictionStackView",
+                    "tintColor": "#0080ff",
+                    "views": [
+                        {
+                            "class": "DepictionMarkdownView",
+                            "markdown": "### Phiên bản 0.4.3\n- Phát hành tweak hỗ trợ iOS cũ\n- Thêm giao diện mới giống iOS 26",
+                            "useRawFormat": True
+                        },
+                        {
+                            "class": "DepictionMarkdownView",
+                            "markdown": "### Phiên bản 0.4.9.9\n- Phát hành tweak hỗ trợ iOS cũ\n- Chỉnh sửa một số lỗi nhỏ",
+                            "useRawFormat": True
+                        }
+                    ]
+                },
+                {
+                    "tabname": "Liên hệ",
+                    "class": "DepictionStackView",
+                    "tintColor": "#0080ff",
+                    "views": [
+                        {
+                            "class": "DepictionMarkdownView",
+                            "markdown": "### Liên hệ với tôi qua các nền tảng bên dưới:",
+                            "useRawFormat": True
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Facebook cá nhân",
+                            "action": "https://www.facebook.com/nhdien07122012/",
+                            "openExternal": True
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Twitter cá nhân",
+                            "action": "https://x.com/nguyenhoaidien?s=21",
+                            "openExternal": True
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Telegram cá nhân",
+                            "action": "https://t.me/diennguyenhoai",
+                            "openExternal": True
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Zalo cá nhân",
+                            "action": "https://zalo.me/0399962032",
+                            "openExternal": True
+                        }
+                    ]
                 }
             ]
         }
+
         with open(json_file, "w", encoding="utf-8") as f:
             json.dump(depiction_json, f, indent=2, ensure_ascii=False)
 
@@ -119,7 +258,7 @@ def generate_packages():
                 out_file.write(f"Name: {control.get('Name', '')}\n")
                 out_file.write(f"Author: {control.get('Author', '')}\n")
                 out_file.write(f"Sponsor: {control.get('Sponsor', '')}\n")
-                out_file.write(f"Icon: {ICON_PATH}\n")  # ✅ icon cố định
+                out_file.write(f"Icon: {ICON_PATH}\n")
                 out_file.write("\n")
 
     print("✅ Đã tạo file Packages")
