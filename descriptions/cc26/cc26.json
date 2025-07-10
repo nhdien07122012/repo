@@ -108,7 +108,12 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.0.0\n- Phát hành tweak hỗ trợ iOS cũ\n- Thêm giao diện mới giống iOS 26",
+          "markdown": "### Phiên bản 0.4.3\n- Phát hành tweak hỗ trợ iOS cũ\n- Thêm giao diện mới giống iOS 26",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 0.4.9.9\n- Phát hành tweak hỗ trợ iOS cũ\n- Chỉnh sửa một số lỗi nhỏ",
           "useRawFormat": true
         }
       ]
@@ -120,7 +125,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**Bạn có thể liên hệ với tôi qua các nền tảng sau:**",
+          "markdown": "### Liên hệ với tôi với các thông tin sau:",
           "useRawFormat": true
         },
         {
@@ -131,24 +136,26 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "Email",
-          "action": {
-            "class": "DepictionAlertView",
-            "title": "Email liên hệ",
-            "text": "nguyendien@example.com",
-            "cancelButton": "Đóng"
-          }
+          "title": "Twitter cá nhân",
+          "action": "https://twitter.com/nhdien07122012",
+          "openExternal": true
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "Số điện thoại",
+          "title": "Telegram cá nhân",
+          "action": "https://t.me/nhdien07122012",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Email liên hệ",
           "action": {
             "class": "DepictionAlertView",
-            "title": "SĐT liên hệ",
-            "text": "039.9962.032",
+            "title": "Email liên hệ",
+            "text": "nhdien07122012@gmail.com",
             "cancelButton": "Đóng"
           }
-        }
+        },
       ]
     }
   ]
