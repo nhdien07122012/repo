@@ -28,7 +28,7 @@
             {
               "class": "DepictionTableButtonView",
               "title": "Xem mô tả gói tại đây",
-              "action": "https://nhdien07122012.github.io/repo/descriptions/xyz.cypwn.calculatorconverter/xyz.cypwn.calculatorconverter.html",
+              "action": "https://nhdien07122012.github.io/repo/descriptions/calculatorconverter/calculatorconverter.html",
               "openExternal": false
             },
             {
@@ -108,12 +108,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 0.4.3\n- Phát hành tweak hỗ trợ iOS cũ\n- Thêm giao diện mới giống iOS 26",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 0.4.9.9\n- Phát hành tweak hỗ trợ iOS cũ\n- Chỉnh sửa một số lỗi nhỏ",
+          "markdown": "### Phiên bản 1.0 - Add iOS 18 unit conversion to the Calculator app.",
           "useRawFormat": true
         }
       ]

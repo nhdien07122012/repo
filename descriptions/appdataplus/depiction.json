@@ -28,7 +28,7 @@
             {
               "class": "DepictionTableButtonView",
               "title": "Xem mô tả gói tại đây",
-              "action": "https://nhdien07122012.github.io/repo/descriptions/xyz.cypwn.calculatorhistory/xyz.cypwn.calculatorhistory.html",
+              "action": "https://nhdien07122012.github.io/repo/descriptions/appdataplus/appdataplus.html",
               "openExternal": false
             },
             {
@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "Calculator gains history!",
+          "markdown": "Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.",
           "useBoldText": true,
           "title": "markdown-description"
         },
@@ -108,12 +108,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 0.4.3\n- Phát hành tweak hỗ trợ iOS cũ\n- Thêm giao diện mới giống iOS 26",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 0.4.9.9\n- Phát hành tweak hỗ trợ iOS cũ\n- Chỉnh sửa một số lỗi nhỏ",
+          "markdown": "### Phiên bản 1.4.0-p - Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.",
           "useRawFormat": true
         }
       ]
