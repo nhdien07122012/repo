@@ -11,6 +11,7 @@ DEB_FOLDER = "debs"
 OUTPUT_FILE = "Packages.txt"
 BZIP_FILE = "Packages.bz2"
 DESCRIPTION_FOLDER = "descriptions"
+IMAGE_FOLDER = "images"  # Thêm hằng số cho thư mục ảnh
 ICON_PATH = "file:///var/jb/Library/IconRepo/tinhchinh.png"
 BASE_URL = "https://nhdien07122012.github.io/repo"
 
@@ -331,6 +332,9 @@ def create_html_description(control, short_dir):
 def generate_packages():
     if os.path.exists(OUTPUT_FILE):
         os.remove(OUTPUT_FILE)
+    
+    # Đảm bảo thư mục gốc images tồn tại
+    os.makedirs(IMAGE_FOLDER, exist_ok=True)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as out_file:
         for filename in os.listdir(DEB_FOLDER):
@@ -346,6 +350,10 @@ def generate_packages():
 
                 create_depiction(control, short_dir)
                 create_html_description(control, short_dir)  # Tạo file HTML
+
+                # Tạo thư mục trong images
+                image_dir = os.path.join(IMAGE_FOLDER, short_dir)
+                os.makedirs(image_dir, exist_ok=True)  # Tạo thư mục ảnh
 
                 out_file.write(f"Package: {custom_pkg}\n")
                 out_file.write(f"Architecture: {control.get('Architecture', 'iphoneos-arm64')}\n")
@@ -370,7 +378,7 @@ def generate_packages():
                 out_file.write(f"Icon: {ICON_PATH}\n")
                 out_file.write("\n")
 
-    print("✅ Đã tạo file Packages.txt, depiction.json và HTML cho mỗi tweak")
+    print("✅ Đã tạo file Packages.txt, depiction.json và HTML và thư mục chứa ảnh cho mỗi tweak")
 
 def compress_bz2():
     with open(OUTPUT_FILE, "rb") as f_in:
