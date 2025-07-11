@@ -362,7 +362,7 @@ def generate_packages():
                 out_file.write(f"SHA256: {hashes['SHA256']}\n")
                 out_file.write(f"SHA512: {hashes['SHA512']}\n")
                 out_file.write(f"Description: {control.get('Description', 'No description')}\n")
-                out_file.write(f"Depiction: {BASE_URL}/descriptions/{short_dir}/depiction.json\n")
+                out_file.write(f"Depiction: {BASE_URL}/descriptions/{short_dir}/{short_dir}.html\n")
                 out_file.write(f"SileoDepiction: {BASE_URL}/descriptions/{short_dir}/depiction.json\n")
                 out_file.write(f"Name: {control.get('Name', '')}\n")
                 out_file.write(f"Author: {control.get('Author', '')}\n")

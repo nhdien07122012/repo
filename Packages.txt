@@ -1,0 +1,229 @@
+Package: com.diennguyen.alpine
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.diennguyen.alpine_1.4.deb
+Size: 601948
+MD5sum: 53f7638d7c3e192220217d113c46010a
+SHA1: 45ebf6972cc278abfaa3b40a2788413f48637d32
+SHA256: 1414544118a9ee30906c154e1285f9cd25b50491170db964b725c261d90d12b3
+SHA512: 63f59c95ca7f1145397590ea9724b7bf9cb8ae3faa915f366193f2d02215028a13ee7ac109f548b890e78d6d509cdc4de96e3368ee2ad7cb9ce30746b0e7c7b3
+Description: Thông báo giao diện TVOS
+Depiction: https://nhdien07122012.github.io/repo/descriptions/alpine/alpine.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/alpine/depiction.json
+Name: Alpine
+Author: MTAC
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.appdataplus
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 2412
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.diennguyen.iconreporootless
+Filename: ./debs/com.diennguyen.appdataplus_1.4-DN.deb
+Size: 771196
+MD5sum: dba4d19c2119c9033613f3ae70f5902a
+SHA1: d9cd745311e2d8a9315e142f8ac7835c5dcfe537
+SHA256: 60a06f9dde6aa02739c262bb2981e895295fff7d51da7a34f89e805db48a0600
+SHA512: 06f9ca4e27b0dfac2751d161cf54e9b36b57b00c6d5d988f2dee2e204aae4fd2af6d84d552e682872035e9f3d3f8aca0121ee3d8b868d3101f9285aa59f746e3
+Description: Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/appdataplus/appdataplus.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/appdataplus/depiction.json
+Name: AppData Plus
+Author: Fouad Raheb & Netskao
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.bohemicrootless
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: Rootless
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Filename: ./debs/com.diennguyen.BohemicRootless_1.1.4.deb
+Size: 36717480
+MD5sum: cb234072d151b32d46850948c86460f4
+SHA1: af3b1b8ac5bd7891feb25254e728241fd95bb89e
+SHA256: 643d114a21417d35d386b675c9e9d0212b49273f1ca5c04b3f576e076db5a31e
+SHA512: e2075f6acc88bb45e12300c499ad3da36a15aa872c13eaa0880ec2c1831a09b5c80e5b247726ac16d43ec29de2616280e6400eb7f2b13ece8ae7a6e25b4df989
+Description: https://nhdien07122012.github.io/repo/
+Depiction: https://nhdien07122012.github.io/repo/descriptions/BohemicRootless/BohemicRootless.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/BohemicRootless/depiction.json
+Name: Bohemic Theme
+Author: timeloop
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.calculatorconverter
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.diennguyen.calculatorconverter_1.0.deb
+Size: 59244
+MD5sum: 2f3dadbcdb0576b7cd4d7699d528bf56
+SHA1: 75bc34271cef5164bca30b0f10ecd0ab872db3a2
+SHA256: 1ac5547627600674a417b2e623bd4b1ddebde7b0f5642fc14b6d4d559a231634
+SHA512: 9864605f4ab46e514c981d128161f8d6a00cd973b60ffdd0067b48b0d4e412c895c3b783db9b74efbc4989b4982f20a604b7c764df42932fdc48c89f1502a6c9
+Description: Chuyển đổi đơn vị giống trên iOS18
+Depiction: https://nhdien07122012.github.io/repo/descriptions/calculatorconverter/calculatorconverter.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/calculatorconverter/depiction.json
+Name: CalculatorConverter
+Author: fiore
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.calculatorhistory
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.diennguyen.calculatorhistory_1.2.deb
+Size: 24264
+MD5sum: cc8ce0654ff869891b6b2e3a945ec625
+SHA1: 5b5530d8161aa13b8d33e919aa0c8f5d0327f2a6
+SHA256: 4095614c19e93c06caf2a6e1e4c50d9c258dda0a25026cd30b9bc33c7d5f1f10
+SHA512: bf42eb58352495dfb114e68a25cc19925c22ac9630b5f89a1f65b98b9673161fad292cbe9b0bdd21e374a9763691225246f9e9031dee322c5b35a1abc091f1ce
+Description: Tiện ích lưu lịch sử trên máy tính
+Depiction: https://nhdien07122012.github.io/repo/descriptions/calculatorhistory/calculatorhistory.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/calculatorhistory/depiction.json
+Name: CalculatorHistory
+Author: fiore
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.cc26
+Architecture: iphoneos-arm64
+Version: 0.4.3b
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Filename: ./debs/com.diennguyen.cc26_0.4.3-DN.deb
+Size: 12496
+MD5sum: 090f1a1dac70c40251b495c16a04175e
+SHA1: 6a20aa11e527b2b313b44d25027a6bf4bd62aa62
+SHA256: 6c031e21f347d461f7e8213d1641b9cdea87a20462e4a21b395d3dd13e72df80
+SHA512: 4906205335d983d724bca03fbe5d7bb90ef04a2acbd1dc2949ed5f5069e795d58b2cf9bc642115df385878abdf17688f06bcfae964d10ff92cfaf0a0ea1d717a
+Description: A sleek reimagination of Control Center
+Depiction: https://nhdien07122012.github.io/repo/descriptions/cc26/cc26.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/cc26/depiction.json
+Name: CC26
+Author: therealhoodboy
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.flex3
+Architecture: iphoneos-arm64
+Version: 3.0
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Depends: mobilesubstrate, firmware (>=15.0)
+Filename: ./debs/com.diennguyen.flex3_3.0.deb
+Size: 16862392
+MD5sum: 9df3eb9ae06f9b26bdda7a87af5d4e19
+SHA1: 4c07637a2171dbbbe1e09cbb4b617274f51b2bf2
+SHA256: d53a1b347ace590d0d65f3288dc4090cc09a11369b7bde4f348efe67a7211f07
+SHA512: d9045cdee1aba61f332db992dd11838780550645f1f360ad235d74347a29b48576637ab854ae9f83d6087adb05a3296637e4ed0cdcde40cbbed0c57bd2c08a6e
+Description: Tiện ích Flex mod iphone đa dụng
+Depiction: https://nhdien07122012.github.io/repo/descriptions/flex3/flex3.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/flex3/depiction.json
+Name: Flex 3
+Author: John Coates
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.iconreporootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: System
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Filename: ./debs/com.diennguyen.iconreporootless_1.0-DN.deb
+Size: 908392
+MD5sum: 3374bccd2fbe2ac460487a2b988297fd
+SHA1: ed9bd596b9d76a01bb591f3463477da0ffb27404
+SHA256: 4e5da69edf672160ea2693ee54e9de588500f8c1cbbc9e794bd15c2046eed422
+SHA512: 21ee1dbbefc266b1d7e78cc98ee128fec074551001a55a72ce3c83ba33a687e1267babc3d6c2f92f154f4aede455f61dc9048e881210a7b0b778b6d13f5d146c
+Description: Gói iCon dành cho Repo Diễn Nguyễn
+Depiction: https://nhdien07122012.github.io/repo/descriptions/iconreporootless/iconreporootless.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/iconreporootless/depiction.json
+Name: iCon Repo DN (Rootless)
+Author: Diễn Nguyễn
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.trapp.jb
+Architecture: iphoneos-arm64
+Version: 2.10-499
+Section: Applications
+Maintainer: Diễn Nguyễn
+Installed-Size: 18856
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/com.diennguyen.jb_2.10-499-DN.deb
+Size: 4795560
+MD5sum: b5356316bd5aa1a63a7f9c5c029b5cb9
+SHA1: 298bc9362a421dfeb814f65728a6801384d8a16b
+SHA256: cf02cbc0c74b765f31027b65c5cc9f278dc351f7bb413fd7e2e58b6a2bacb407
+SHA512: 8453bdf8f8253a8b1437fab94b7e8a86912ea75cafa158336918cf4a3de61ba97cd1ceae88713a2e5dded603da542a959a1c6963896e092cd5c20f30a8b98fee
+Description: Tiện ích ghi âm cuộc gọi hiện đại và nhiều chức năng!
+Depiction: https://nhdien07122012.github.io/repo/descriptions/jb/jb.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/jb/depiction.json
+Name: TrollRecorder DN(RootLess)
+Author: Lessica <82flex@gmail.com>
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.kayoko
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.diennguyen.kayoko_2.5-DN.deb
+Size: 124580
+MD5sum: fcbba481aaee96908e9ced55a902dab7
+SHA1: 79e292b768884703d7d384da52ec9a8781cad970
+SHA256: 8aa91d36603437cfad361b63311aa6b0a96b89b585a2a32292cbf5a6b4890eaf
+SHA512: 782a615c8632c38236c37ed518ed3f8b096e387d759a2675f15e2a2311a01002b07b8832224447ac58b1749543e12c43235bf07f484269d5a972e8acbe0a334e
+Description: Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí! Rất dễ sử dụng! Nó cho phép sao chép hình ảnh sang phần mềm khác! Tương thích với Dopamine. 82flex đã hỗ trợ iOS 16, vui lòng chờ bản cập nhật để khắc phục mọi sự cố!
+Depiction: https://nhdien07122012.github.io/repo/descriptions/kayoko/kayoko.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/kayoko/depiction.json
+Name: Kayoko
+Author: Traurige
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.waktos2
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 1228
+Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 2.0), preferenceloader
+Filename: ./debs/com.diennguyen.waktos2_1.0-DN.deb
+Size: 425116
+MD5sum: b3d5f518764857a4326e2fcbc0f1cc95
+SHA1: a08467e839efffb0a33b12bd32458c2f8763359a
+SHA256: c1d905f38b7b53d53526abeaff29941014a417d34e87d5ca0f16f79ada71b258
+SHA512: 8dd8f542af611c21040b559a79a5431f937e14169ffe01000ae40efab320af654a119781f6bed85c5aad3719461016e4be0d5c36bf2efd7ca432cb64995a93c0
+Description: Phong cách Android cho màn hình khoá
+Depiction: https://nhdien07122012.github.io/repo/descriptions/waktos2/waktos2.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/waktos2/depiction.json
+Name: Waktos 2
+Author: alimaulana
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+

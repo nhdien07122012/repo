@@ -1,0 +1,143 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#0080ff",
+  "headerImage": "https://nhdien07122012.github.io/repo/sileo.png",
+  "tabs": [
+    {
+      "tabname": "Mô tả",
+      "class": "DepictionStackView",
+      "tintColor": "#0080ff",
+      "views": [
+        {
+          "class": "DepictionStackView",
+          "backgroundColor": "#0080ff",
+          "views": [
+            {
+              "class": "DepictionMarkdownView",
+              "tintColor": "#ffffff",
+              "markdown": "<style>body { color: white; text-align: center; }</style><br><strong>Ủng hộ tôi qua Momo: 039.9962.032</strong><br>&nbsp;",
+              "useRawFormat": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionStackView",
+          "views": [
+            {
+              "class": "DepictionTableButtonView",
+              "title": "Xem mô tả gói tại đây",
+              "action": "https://nhdien07122012.github.io/repo/descriptions/kayoko/kayoko.html",
+              "openExternal": false
+            },
+            {
+              "class": "DepictionTableButtonView",
+              "title": "Theo dõi tôi trên Facebook",
+              "action": "https://www.facebook.com/nhdien07122012/",
+              "openExternal": true
+            },
+            {
+              "class": "DepictionTableButtonView",
+              "title": "Ủng hộ tôi qua Momo",
+              "action": {
+                "class": "DepictionAlertView",
+                "title": "Ủng hộ qua Momo",
+                "text": "SĐT: 039.9962.032\nTên: Nguyễn Diễn",
+                "cancelButton": "Đóng"
+              },
+              "openExternal": false
+            },
+            {
+              "class": "DepictionImageView",
+              "URL": "https://nhdien07122012.github.io/repo/images/momo_qr.png",
+              "height": 250,
+              "width": 250,
+              "alignment": 1,
+              "cornerRadius": 12
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "useBottomMargin": false,
+          "markdown": "Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí! Rất dễ sử dụng! Nó cho phép sao chép hình ảnh sang phần mềm khác! Tương thích với Dopamine. 82flex đã hỗ trợ iOS 16, vui lòng chờ bản cập nhật để khắc phục mọi sự cố!",
+          "useBoldText": true,
+          "title": "markdown-description"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionAdmobView",
+          "adUnitID": "ca-app-pub-9689973964248496/5297402136",
+          "adAppID": "ca-app-pub-9689973964248496~1758091302"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 2
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://nhdien07122012.github.io/repo/CydiaIcon1.png",
+          "height": 200,
+          "width": 200,
+          "alignment": 1,
+          "cornerRadius": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 4
+        }
+      ]
+    },
+    {
+      "tabname": "Nhật ký thay đổi",
+      "class": "DepictionStackView",
+      "tintColor": "#0080ff",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 2.5 - Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí! Rất dễ sử dụng! Nó cho phép sao chép hình ảnh sang phần mềm khác! Tương thích với Dopamine. 82flex đã hỗ trợ iOS 16, vui lòng chờ bản cập nhật để khắc phục mọi sự cố!",
+          "useRawFormat": true
+        }
+      ]
+    },
+    {
+      "tabname": "Liên hệ",
+      "class": "DepictionStackView",
+      "tintColor": "#0080ff",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Liên hệ với tôi qua các nền tảng bên dưới:",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Facebook cá nhân",
+          "action": "https://www.facebook.com/nhdien07122012/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Twitter cá nhân",
+          "action": "https://x.com/nguyenhoaidien?s=21",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram cá nhân",
+          "action": "https://t.me/diennguyenhoai",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Zalo cá nhân",
+          "action": "https://zalo.me/0399962032",
+          "openExternal": true
+        }
+      ]
+    }
+  ]
+}

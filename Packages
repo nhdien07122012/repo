@@ -164,3 +164,65 @@ Author: John Coates
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 
+Package: com.diennguyen.trapp.jb
+Architecture: iphoneos-arm64
+Version: 2.10-499
+Section: Applications
+Maintainer: Diễn Nguyễn
+Installed-Size: 18856
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/com.diennguyen.jb_2.10-499-DN.deb
+Size: 4795560
+MD5sum: b5356316bd5aa1a63a7f9c5c029b5cb9
+SHA1: 298bc9362a421dfeb814f65728a6801384d8a16b
+SHA256: cf02cbc0c74b765f31027b65c5cc9f278dc351f7bb413fd7e2e58b6a2bacb407
+SHA512: 8453bdf8f8253a8b1437fab94b7e8a86912ea75cafa158336918cf4a3de61ba97cd1ceae88713a2e5dded603da542a959a1c6963896e092cd5c20f30a8b98fee
+Description: Tiện ích ghi âm cuộc gọi hiện đại và nhiều chức năng!
+Depiction: https://nhdien07122012.github.io/repo/descriptions/jb/jb.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/jb/depiction.json
+Name: TrollRecorder DN(RootLess)
+Author: Lessica <82flex@gmail.com>
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tienich-dn.png
+
+Package: com.diennguyen.kayoko
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.diennguyen.kayoko_2.5-DN.deb
+Size: 124580
+MD5sum: fcbba481aaee96908e9ced55a902dab7
+SHA1: 79e292b768884703d7d384da52ec9a8781cad970
+SHA256: 8aa91d36603437cfad361b63311aa6b0a96b89b585a2a32292cbf5a6b4890eaf
+SHA512: 782a615c8632c38236c37ed518ed3f8b096e387d759a2675f15e2a2311a01002b07b8832224447ac58b1749543e12c43235bf07f484269d5a972e8acbe0a334e
+Description: Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí! Rất dễ sử dụng! Nó cho phép sao chép hình ảnh sang phần mềm khác! Tương thích với Dopamine. 82flex đã hỗ trợ iOS 16, vui lòng chờ bản cập nhật để khắc phục mọi sự cố!
+Depiction: https://nhdien07122012.github.io/repo/descriptions/kayoko/kayoko.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/kayoko/depiction.json
+Name: Kayoko(DN)
+Author: Traurige
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.waktos2
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 1228
+Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 2.0), preferenceloader
+Filename: ./debs/com.diennguyen.waktos2_1.0-DN.deb
+Size: 425116
+MD5sum: b3d5f518764857a4326e2fcbc0f1cc95
+SHA1: a08467e839efffb0a33b12bd32458c2f8763359a
+SHA256: c1d905f38b7b53d53526abeaff29941014a417d34e87d5ca0f16f79ada71b258
+SHA512: 8dd8f542af611c21040b559a79a5431f937e14169ffe01000ae40efab320af654a119781f6bed85c5aad3719461016e4be0d5c36bf2efd7ca432cb64995a93c0
+Description: Phong cách Android cho màn hình khoá
+Depiction: https://nhdien07122012.github.io/repo/descriptions/waktos2/waktos2.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/waktos2/depiction.json
+Name: Waktos 2
+Author: alimaulana
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
