@@ -98,7 +98,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.4.0-p - Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.",
+          "markdown": "### Phiên bản 1.4.0 - Quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.",
           "useRawFormat": true
         }
       ]
