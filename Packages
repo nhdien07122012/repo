@@ -4,7 +4,7 @@ Version: 1.4.0
 Section: Tweaks
 Maintainer: Diễn Nguyễn
 Installed-Size: 2412
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.diennguyen.iconreporootless
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.diennguyen.appdataplus_1.4-DN.deb
 Size: 771196
 MD5sum: dba4d19c2119c9033613f3ae70f5902a
