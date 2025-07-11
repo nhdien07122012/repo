@@ -341,7 +341,7 @@ def generate_packages():
                 hashes = generate_hashes(deb_path)
 
                 original_pkg = control.get("Package", "unknown").lower()
-                custom_pkg = f"com.diennguyen.{original_pkg}"
+                custom_pkg = f"{original_pkg}"
                 short_dir = os.path.splitext(filename)[0].split("_")[0].split(".")[-1]
 
                 create_depiction(control, short_dir)

@@ -59,3 +59,108 @@ Name: iCon Repo DN (Rootless)
 Author: Diễn Nguyễn
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.alpine
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.diennguyen.alpine_1.4.deb
+Size: 601948
+MD5sum: 53f7638d7c3e192220217d113c46010a
+SHA1: 45ebf6972cc278abfaa3b40a2788413f48637d32
+SHA256: 1414544118a9ee30906c154e1285f9cd25b50491170db964b725c261d90d12b3
+SHA512: 63f59c95ca7f1145397590ea9724b7bf9cb8ae3faa915f366193f2d02215028a13ee7ac109f548b890e78d6d509cdc4de96e3368ee2ad7cb9ce30746b0e7c7b3
+Description: Thông báo giao diện TVOS
+Depiction: https://nhdien07122012.github.io/repo/descriptions/alpine/alpine.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/alpine/depiction.json
+Name: Alpine(DN)
+Author: MTAC
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.bohemicrootless
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: Rootless
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Filename: ./debs/com.diennguyen.BohemicRootless_1.1.4.deb
+Size: 36717480
+MD5sum: cb234072d151b32d46850948c86460f4
+SHA1: af3b1b8ac5bd7891feb25254e728241fd95bb89e
+SHA256: 643d114a21417d35d386b675c9e9d0212b49273f1ca5c04b3f576e076db5a31e
+SHA512: e2075f6acc88bb45e12300c499ad3da36a15aa872c13eaa0880ec2c1831a09b5c80e5b247726ac16d43ec29de2616280e6400eb7f2b13ece8ae7a6e25b4df989
+Description: https://nhdien07122012.github.io/repo/
+Depiction: https://nhdien07122012.github.io/repo/descriptions/BohemicRootless/bohemicrootless.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/BohemicRootless/depiction.json
+Name: Bohemic Theme(DN)
+Author: timeloop
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.calculatorconverter
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/com.diennguyen.calculatorconverter_1.0.deb
+Size: 59244
+MD5sum: 2f3dadbcdb0576b7cd4d7699d528bf56
+SHA1: 75bc34271cef5164bca30b0f10ecd0ab872db3a2
+SHA256: 1ac5547627600674a417b2e623bd4b1ddebde7b0f5642fc14b6d4d559a231634
+SHA512: 9864605f4ab46e514c981d128161f8d6a00cd973b60ffdd0067b48b0d4e412c895c3b783db9b74efbc4989b4982f20a604b7c764df42932fdc48c89f1502a6c9
+Description: Chuyển đổi đơn vị giống trên iOS18
+Depiction: https://nhdien07122012.github.io/repo/descriptions/calculatorconverter/calculatorconverter.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/calculatorconverter/depiction.json
+Name: CalculatorConverter(DN)
+Author: fiore
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.calculatorhistory
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.diennguyen.calculatorhistory_1.2.deb
+Size: 24264
+MD5sum: cc8ce0654ff869891b6b2e3a945ec625
+SHA1: 5b5530d8161aa13b8d33e919aa0c8f5d0327f2a6
+SHA256: 4095614c19e93c06caf2a6e1e4c50d9c258dda0a25026cd30b9bc33c7d5f1f10
+SHA512: bf42eb58352495dfb114e68a25cc19925c22ac9630b5f89a1f65b98b9673161fad292cbe9b0bdd21e374a9763691225246f9e9031dee322c5b35a1abc091f1ce
+Description: Tiện ích lưu lịch sử trên máy tính
+Depiction: https://nhdien07122012.github.io/repo/descriptions/calculatorhistory/calculatorhistory.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/calculatorhistory/depiction.json
+Name: CalculatorHistory(DN)
+Author: fiore
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.flex3
+Architecture: iphoneos-arm64
+Version: 3.0
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Depends: mobilesubstrate, firmware (>=15.0)
+Filename: ./debs/com.diennguyen.flex3_3.0.deb
+Size: 16862392
+MD5sum: 9df3eb9ae06f9b26bdda7a87af5d4e19
+SHA1: 4c07637a2171dbbbe1e09cbb4b617274f51b2bf2
+SHA256: d53a1b347ace590d0d65f3288dc4090cc09a11369b7bde4f348efe67a7211f07
+SHA512: d9045cdee1aba61f332db992dd11838780550645f1f360ad235d74347a29b48576637ab854ae9f83d6087adb05a3296637e4ed0cdcde40cbbed0c57bd2c08a6e
+Description: Tiện ích Flex mod iphone đa dụng
+Depiction: https://nhdien07122012.github.io/repo/descriptions/flex3/flex3.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/flex3/depiction.json
+Name: Flex 3(DN)
+Author: John Coates
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
