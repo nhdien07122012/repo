@@ -43,7 +43,7 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 Package: com.diennguyen.iconreporootless
 Architecture: iphoneos-arm64
 Version: 1.0
-Section: System
+Section: IconRepo
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Filename: ./debs/com.diennguyen.iconreporootless_1.0-DN.deb
@@ -84,7 +84,7 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 Package: com.diennguyen.bohemicrootless
 Architecture: iphoneos-arm64
 Version: 1.1.4
-Section: Rootless
+Section: Themes
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Filename: ./debs/com.diennguyen.BohemicRootless_1.1.4.deb
