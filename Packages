@@ -99,7 +99,7 @@ SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/BohemicRootle
 Name: Bohemic Theme(DN)
 Author: timeloop
 Sponsor: Diễn Nguyễn
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Icon: file:///var/jb/Library/IconRepo/chude-dn.png
 
 Package: com.diennguyen.calculatorconverter
 Architecture: iphoneos-arm64
