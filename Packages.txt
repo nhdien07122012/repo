@@ -19,48 +19,6 @@ Author: Fouad Raheb & Netskao
 Sponsor: 
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 
-Package: com.diennguyen.xyz.cypwn.calculatorconverter
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: Diễn Nguyễn
-Installed-Size: 404
-Depends: mobilesubstrate
-Filename: ./debs/com.diennguyen.calculatorconverter_1.0-DN.deb
-Size: 98186
-MD5sum: 4db783e0cfe02c656c7b302f615a9218
-SHA1: 5a2675fe762e74e292042e1804d0a8c41322b35b
-SHA256: e73d8658940e2626d6797614f39a289039ded495508b5a44abadab013f74eda3
-SHA512: 9093deddfa77f220bebd64779a03a36bd1f904d5310749dbb3779155e83eabf4b2a557850bcc80c06691b13fabb1d56cc3d5962c3814ec7c89ea8960b71c0db4
-Description: Add iOS 18 unit conversion to the Calculator app.
-Depiction: https://nhdien07122012.github.io/repo/descriptions/calculatorconverter/depiction.json
-SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/calculatorconverter/depiction.json
-Name: CalculatorConverter
-Author: fiore
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
-
-Package: com.diennguyen.calculatorhistory
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: Tweaks
-Maintainer: Diễn Nguyễn
-Installed-Size: 240
-Depends: mobilesubstrate
-Filename: ./debs/com.diennguyen.calculatorhistory_1.2-DN.deb
-Size: 24240
-MD5sum: a6d10edbf3bb13b411e0d7ff2583d46d
-SHA1: 4ec0b44572c09e4e92db8f3cc16f8a3e42329042
-SHA256: bf6ec319091e00e01a390c4359b0d404a59f01fa3a38f06e05eee2eaba5f448f
-SHA512: e84ec28acfdd7774a7cd2548203cb8a7b1cbe40574dcf72352f5ce3f2c5bbb8d2c88c46c44c610fae16c0c83fbfb7129a37e3bb6a7e997e3e379f9371b0d7981
-Description: Calculator gains history!
-Depiction: https://nhdien07122012.github.io/repo/descriptions/calculatorhistory/calculatorhistory.html
-SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/calculatorhistory/depiction.json
-Name: CalculatorHistory
-Author: fiore
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
-
 Package: com.diennguyen.xyz.cypwn.cc26
 Architecture: iphoneos-arm64
 Version: 0.4.3b
@@ -80,5 +38,25 @@ SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/cc26/depictio
 Name: CC26
 Author: therealhoodboy
 Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+
+Package: com.diennguyen.iconreporootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: System
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Filename: ./debs/com.diennguyen.iconreporootless_1.0-DN.deb
+Size: 908392
+MD5sum: 3374bccd2fbe2ac460487a2b988297fd
+SHA1: ed9bd596b9d76a01bb591f3463477da0ffb27404
+SHA256: 4e5da69edf672160ea2693ee54e9de588500f8c1cbbc9e794bd15c2046eed422
+SHA512: 21ee1dbbefc266b1d7e78cc98ee128fec074551001a55a72ce3c83ba33a687e1267babc3d6c2f92f154f4aede455f61dc9048e881210a7b0b778b6d13f5d146c
+Description: Gói iCon dành cho Repo Diễn Nguyễn
+Depiction: https://nhdien07122012.github.io/repo/descriptions/iconreporootless/depiction.json
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/iconreporootless/depiction.json
+Name: iCon Repo DN (Rootless)
+Author: Diễn Nguyễn
+Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
 

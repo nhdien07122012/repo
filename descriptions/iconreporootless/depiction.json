@@ -28,7 +28,7 @@
             {
               "class": "DepictionTableButtonView",
               "title": "Xem mô tả gói tại đây",
-              "action": "https://nhdien07122012.github.io/repo/descriptions/calculatorconverter/calculatorconverter.html",
+              "action": "https://nhdien07122012.github.io/repo/descriptions/iconreporootless/iconreporootless.html",
               "openExternal": false
             },
             {
@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "Add iOS 18 unit conversion to the Calculator app.",
+          "markdown": "Gói iCon dành cho Repo Diễn Nguyễn",
           "useBoldText": true,
           "title": "markdown-description"
         },
@@ -98,7 +98,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.0 - Add iOS 18 unit conversion to the Calculator app.",
+          "markdown": "### Phiên bản 1.0 - Gói iCon dành cho Repo Diễn Nguyễn",
           "useRawFormat": true
         }
       ]
