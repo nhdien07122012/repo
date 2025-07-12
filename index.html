@@ -20,6 +20,7 @@
       background: var(--bg-light);
       color: var(--text-light);
       transition: background 0.5s, color 0.5s;
+      min-height: 100vh;
     }
 
     @media (prefers-color-scheme: dark) {
@@ -109,6 +110,7 @@
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
       transition: transform 0.3s;
       color: black;
+      text-align: center;
     }
 
     .tweak:hover {
@@ -130,19 +132,24 @@
   </style>
 </head>
 <body>
+  <div class="logo">
+  <img src="CydiaIcon.png" alt="Cydia Icon" style="width: 100px; height: 100px; display: block; margin: 0 auto; border-radius: 24%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);">
+</div>
+
   <h1>🎉 Diễn Nguyễn Repo 🎉</h1>
-  <p>Add this repo to Sileo, Cydia or Zebra:</p>
+  <p>Thêm nguồn của tôi vào Sileo, Cydia hoặc Zebra bên dưới:</p>
   <code>https://nhdien07122012.github.io/repo/</code>
 
   <div class="buttons">
-    <a class="btn" href="sileo://source/https://nhdien07122012.github.io/repo/">Add to Sileo</a>
-    <a class="btn" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://nhdien07122012.github.io/repo/">Add to Cydia</a>
-    <a class="btn" href="zbra://sources/add/https://nhdien07122012.github.io/repo/">Add to Zebra</a>
+    <a class="btn" href="sileo://source/https://nhdien07122012.github.io/repo/">Thêm vào Sileo</a>
+    <a class="btn" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://nhdien07122012.github.io/repo/">Thêm vào Cydia</a>
+    <a class="btn" href="zbra://sources/add/https://nhdien07122012.github.io/repo/">Thêm vào Zebra</a>
   </div>
 
   <div class="tweak">
-    <strong>✨Diễn Nguyễn Repository✨ </strong><br>
-    A cool tweak that enhances your iOS experience with new features.<br>
+    <strong>✨Diễn Nguyễn Repository✨ </strong>
+    <hr class="divider" />
+    <br>Một nguồn nho nhỏ giúp lưu trữ các tweak yêu thích của tôi.<br>
     <small>Version: 1.1.0 • Author: Diễn Nguyễn </small>
   </div>
 </body>
