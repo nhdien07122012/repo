@@ -151,11 +151,11 @@ Section: System
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Filename: ./debs/com.diennguyen.iconreporootless_1.0-DN.deb
-Size: 908392
-MD5sum: 3374bccd2fbe2ac460487a2b988297fd
-SHA1: ed9bd596b9d76a01bb591f3463477da0ffb27404
-SHA256: 4e5da69edf672160ea2693ee54e9de588500f8c1cbbc9e794bd15c2046eed422
-SHA512: 21ee1dbbefc266b1d7e78cc98ee128fec074551001a55a72ce3c83ba33a687e1267babc3d6c2f92f154f4aede455f61dc9048e881210a7b0b778b6d13f5d146c
+Size: 908388
+MD5sum: cc6140ea8aaabfb9aa1f7bc067c1d25b
+SHA1: 048a27112b4397a5bffe8d527132cc3d1917c3f9
+SHA256: 892ff7ab0029a42f59a25a2a866265bc652edfaa0e57984502c17acdd4791e13
+SHA512: 6676bfdfe80b2ff1a8875fea3f1968524efa42ec0e834554b175a30eac5e8bd26c20f10958d72341f952b5576b2951c78b8c3498a6d6d85f2d39aa5676035985
 Description: Gói iCon dành cho Repo Diễn Nguyễn
 Depiction: https://nhdien07122012.github.io/repo/descriptions/iconreporootless/iconreporootless.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/iconreporootless/depiction.json
