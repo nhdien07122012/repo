@@ -256,11 +256,11 @@ Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Depends: mobilesubstrate
 Filename: ./debs/com.diennguyen.autoalerts_1.0.4-DN.deb
-Size: 55044
-MD5sum: 9d735c0c6064ec9e58567e32a02998c3
-SHA1: 20873fcfa6c197d4b59623f18d38987d405728c2
-SHA256: 31c32b635ca4c436c8cebb83f0bd629cf67d1faa202ffe114f0ba21eb0b02523
-SHA512: 2a777eb1e1fe73169d75a84372099c11a15d6422f52cef985161c4292fda1672a9cb71d6e0e0434b82dc3c60188cb1279073497123c4d91ac80ecafac79c08bd
+Size: 55000
+MD5sum: 96f5cc741292076c47ff0223af105a1b
+SHA1: 0f78828cdd78f70e60f80119bdb97b6d83ce8eb7
+SHA256: ffb6423cd4f79d6511faaf70f6c3bf6ff3b363ab7a5ab0de2c2bf951f8b84866
+SHA512: ada90c56fd05ce9bb3c0f4048e2388ed7da9344a30d90e074be3f3b71170d158e15c4e9b5d4cb904f108a1026cf3768e6c5809431d695ce366fd4ab2a37e69a2
 Description: Tự động hóa các hành động cảnh báo. Phiên bản phân nhánh này bao gồm tính năng tự động loại bỏ các tinh chỉnh anthopak.
 Depiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/autoalerts.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/depiction.json
