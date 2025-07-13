@@ -4,19 +4,19 @@
     "itemCornerRadius": 10,
     "banners": [
         {
-            "title": "Diễn Nguyễn",
+            "title": "Witcher(DN)",
             "package": "com.diennguyen.youpip",
-            "url": "https://nhdien07122012.github.io/repo/banner/banner.png"
+            "url": "https://nhdien07122012.github.io/repo/banner/banner.jpg"
          },
          {
-            "title": "Diễn Nguyễn",
+            "title": "NiceOS(DN)",
             "package": "com.diennguyen.youpip",
             "url": "https://nhdien07122012.github.io/repo/banner/banner1.png"
          },
          {
-            "title": "Diễn Nguyễn",
+            "title": "Griddy(DN)",
             "package": "com.diennguyen.youpip",
-            "url": "https://nhdien07122012.github.io/repo/banner/banner2.png"
+            "url": "https://nhdien07122012.github.io/repo/banner/banner2.jpeg"
          }
     ]
 }
