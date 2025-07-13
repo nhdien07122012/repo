@@ -268,3 +268,24 @@ Name: CC26(DN)
 Author: therealhoodboy
 Sponsor: 
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.autoalerts
+Architecture: iphoneos-arm
+Version: 1.0.4-DN
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Depends: mobilesubstrate
+Filename: ./debs/com.diennguyen.autoalerts_1.0.4-DN.deb
+Size: 55188
+MD5sum: f167a49bdc43f9a0b906b20cfff9b1e6
+SHA1: 9f50ed11906641f97f6f4cea31170a792192691e
+SHA256: d5ad3c63bab681850f4c1011511df72a3b25564793ee4af7b72b3e7a0deb1748
+SHA512: d396e9b5378899963f120f68258c536c45c4646521e34981631dd74f5e717b3f38766fcc6c8acd92834eb786f6a00b441fcac51a4cc0c0a20c4da6555c89ea4c
+Description: Tự động hóa các hành động cảnh báo. Phiên bản phân nhánh này bao gồm tính năng tự động loại bỏ các tinh chỉnh anthopak.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/autoalerts.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/depiction.json
+Name: AutoAlerts(DN)
+Author: shiftcmdk, Paisseon
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png

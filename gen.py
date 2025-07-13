@@ -12,7 +12,7 @@ OUTPUT_FILE = "Packages.txt"
 BZIP_FILE = "Packages.bz2"
 DESCRIPTION_FOLDER = "descriptions"
 IMAGE_FOLDER = "images"  # Thêm hằng số cho thư mục ảnh
-ICON_PATH = "file:///var/jb/Library/IconRepo/tinhchinh.png"
+ICON_PATH = "file:///var/jb/Library/IconRepo/tinhchinh-dn.png"
 BASE_URL = "https://nhdien07122012.github.io/repo"
 
 def extract_control_info_from_deb(deb_path: str) -> Dict[str, str]:

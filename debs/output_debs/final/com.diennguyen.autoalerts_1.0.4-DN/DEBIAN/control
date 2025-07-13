@@ -1,0 +1,12 @@
+Package: com.diennguyen.autoalerts
+Maintainer: Diễn Nguyễn	
+Depiction: 
+SileoDepiction: 
+Name: AutoAlerts
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Tự động hóa các hành động cảnh báo. Phiên bản phân nhánh này bao gồm tính năng tự động loại bỏ các tinh chỉnh anthopak.
+Author: shiftcmdk, Paisseon
+Section: Tweaks
+Version: 1.0.4-DN
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
