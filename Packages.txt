@@ -89,11 +89,11 @@ Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Depends: mobilesubstrate
 Filename: ./debs/com.diennguyen.autoalerts_1.0.4-DN.deb
-Size: 55188
-MD5sum: f167a49bdc43f9a0b906b20cfff9b1e6
-SHA1: 9f50ed11906641f97f6f4cea31170a792192691e
-SHA256: d5ad3c63bab681850f4c1011511df72a3b25564793ee4af7b72b3e7a0deb1748
-SHA512: d396e9b5378899963f120f68258c536c45c4646521e34981631dd74f5e717b3f38766fcc6c8acd92834eb786f6a00b441fcac51a4cc0c0a20c4da6555c89ea4c
+Size: 55044
+MD5sum: 9d735c0c6064ec9e58567e32a02998c3
+SHA1: 20873fcfa6c197d4b59623f18d38987d405728c2
+SHA256: 31c32b635ca4c436c8cebb83f0bd629cf67d1faa202ffe114f0ba21eb0b02523
+SHA512: 2a777eb1e1fe73169d75a84372099c11a15d6422f52cef985161c4292fda1672a9cb71d6e0e0434b82dc3c60188cb1279073497123c4d91ac80ecafac79c08bd
 Description: Tự động hóa các hành động cảnh báo. Phiên bản phân nhánh này bao gồm tính năng tự động loại bỏ các tinh chỉnh anthopak.
 Depiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/autoalerts.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/depiction.json
@@ -116,27 +116,6 @@ SHA1: a71fcaad11ed0569d0a74d2cff14bf132c96fa7e
 SHA256: 41aa5449185710510005bdb8e715ab7c00d6caca3f59991ea671e1c6c44359e7
 SHA512: 46837b8ab2f7251f6ac06abd40405c94fa3704f4e5d4d35f6263e866bac2c5a3636fc8785d1bbc70c75a79b73e640d94649dbdbdc1e1f600aa651536f08416a5
 Description: Trung tâm điều khiển phong cách IOS26.
-Depiction: https://nhdien07122012.github.io/repo/descriptions/cc26/cc26.html
-SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/cc26/depiction.json
-Name: CC26
-Author: therealhoodboy
-Sponsor: Diễn Nguyễn
-Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
-
-Package: com.diennguyen.cc26
-Architecture: iphoneos-arm64
-Version: 0.4.3b
-Section: Tweaks
-Maintainer: Diễn Nguyễn
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
-Filename: ./debs/com.diennguyen.cc26_0.4.3-DN.deb
-Size: 12496
-MD5sum: 090f1a1dac70c40251b495c16a04175e
-SHA1: 6a20aa11e527b2b313b44d25027a6bf4bd62aa62
-SHA256: 6c031e21f347d461f7e8213d1641b9cdea87a20462e4a21b395d3dd13e72df80
-SHA512: 4906205335d983d724bca03fbe5d7bb90ef04a2acbd1dc2949ed5f5069e795d58b2cf9bc642115df385878abdf17688f06bcfae964d10ff92cfaf0a0ea1d717a
-Description: A sleek reimagination of Control Center
 Depiction: https://nhdien07122012.github.io/repo/descriptions/cc26/cc26.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/cc26/depiction.json
 Name: CC26

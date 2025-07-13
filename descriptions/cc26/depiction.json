@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "A sleek reimagination of Control Center",
+          "markdown": "Trung tâm điều khiển phong cách IOS26.",
           "useBoldText": true,
           "title": "markdown-description"
         },
@@ -98,7 +98,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 0.4.3b - A sleek reimagination of Control Center",
+          "markdown": "### Phiên bản 0.4.9.9 - Trung tâm điều khiển phong cách IOS26.",
           "useRawFormat": true
         }
       ]
