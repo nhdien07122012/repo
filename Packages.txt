@@ -226,6 +226,27 @@ Author: alimaulana
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
+Package: com.diennguyen.kayoko
+Architecture: iphoneos-arm64
+Version: 2.9
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.diennguyen.kayoko_2.9.deb
+Size: 128208
+MD5sum: d25d674db277502d66bbe477eb4c8022
+SHA1: 08cbee3b2e06060c589ef24693b88dcfa88061b2
+SHA256: 3564aea3e5330278828578c8ed63852e51be52fff0174f4bfc036b85039840f7
+SHA512: 3c08a59205439494c36d97429468d6b4ed1f08ceae9a9cad93a2ef043fd69fd9db73eb67d57e9d133714a01c402f2555908a162628fa55fb86e01cc2b6e4d5ca
+Description: Quản lý bộ nhớ trên iPhone
+Depiction: https://nhdien07122012.github.io/repo/descriptions/kayoko/kayoko.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/kayoko/depiction.json
+Name: Kayoko(DN)
+Author: Alexandra Aurora Göttlicher
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
 Package: com.diennguyen.appdataplus
 Architecture: iphoneos-arm64
 Version: 1.4.0

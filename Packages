@@ -311,26 +311,6 @@ Author: shiftcmdk, waruhachi
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
-Package: com.diennguyen.visionos
-Architecture: iphoneos-arm64
-Version: 3.5.1
-Section: Themes
-Maintainer: Diễn Nguyễn
-Installed-Size: 1024
-Filename: ./debs/com.diennguyen.visionos_3.5.1-DN.deb
-Size: 9915476
-MD5sum: bd60145ff1d9e2ec70b5158cfc0f3569
-SHA1: e5c631118cf598ed400991dc120042c2e90a2d01
-SHA256: c66d0a6a02467348061af667dcd3318753f169b904928b2555e4c48d0d4b1e17
-SHA512: cfcebd1325e7851c10dac007f2a54576805e9c0cd1b956c87cc1d783017c37484b2c05275915f30628410ae1d2002295f4041fe7e5749c1048db895c71aa8bae
-Description: VisionOS theme(DN)
-Depiction: https://nhdien07122012.github.io/repo/descriptions/visionos/visionos.html
-SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/visionos/depiction.json
-Name: VisionOS(DN)
-Author: Billie
-Sponsor: Diễn Nguyễn
-Icon: file:///var/jb/Library/IconRepo/chude-dn.png
-
 Package: com.diennguyen.kayoko
 Architecture: iphoneos-arm64
 Version: 2.9
