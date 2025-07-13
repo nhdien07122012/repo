@@ -326,7 +326,7 @@ SHA512: cfcebd1325e7851c10dac007f2a54576805e9c0cd1b956c87cc1d783017c37484b2c0527
 Description: VisionOS theme(DN)
 Depiction: https://nhdien07122012.github.io/repo/descriptions/visionos/visionos.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/visionos/depiction.json
-Name: VisionOS
+Name: VisionOS(DN)
 Author: Billie
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/chude-dn.png
