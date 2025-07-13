@@ -1,0 +1,58 @@
+.main-bg
+{
+    background: #282629;
+}
+
+.kb-row
+{
+    margin-top:4%;margin-bottom:5%;margin-left:1%;margin-right:.5%;
+}
+
+.row-height
+{
+    height: 12%;
+}
+
+.kb-row-landscape
+{
+    margin-top:4.1%;margin-left:13.5%;margin-right:13.5%;
+}
+
+.row-height-landscape
+{
+    height: 17%;
+}
+
+.borders
+{
+border-radius:20px;border-bottom:1px;border-top:1px;border-left:1px;border-right:10px;
+}
+
+.border-bg
+{
+    background:#242225
+}
+
+.cell-bg
+{
+    background:#3a383b
+}
+
+.cell-dist
+{
+    width:8.9%; margin-left: 1.2%;
+}
+
+.char-width
+{
+    width:12.7% !important;
+}
+.ln-height
+{
+    height:5% !important;
+}
+
+.num-ln-height
+{
+    height:15.5% !important;
+}

@@ -1,0 +1,11 @@
+Package: com.diennguyen.visionos
+Maintainer: Diễn Nguyễn <nhdien07122012@gmail.com>
+Depiction: 
+SileoDepiction: 
+Icon: 
+Section: Themes
+Architecture: iphoneos-arm64
+Version: 3.5.1
+Description: VisionOS theme(DN)
+Name: VisionOS
+Author: Billie
