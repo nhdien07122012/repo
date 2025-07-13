@@ -1,0 +1,12 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "title": "Diễn Nguyễn",
+            "package": "com.diennguyen.youpip",
+            "url": "https://nhdien07122012.github.io/repo/sileo.png"
+         }
+    ]
+}
