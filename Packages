@@ -247,3 +247,24 @@ Name: RecordDot(DN)
 Author: Nightwind
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.cc26
+Architecture: iphoneos-arm64
+Version: 0.4.9.9
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Filename: ./debs/com.diennguyen.cc26_0.4.9.9-DN.deb
+Size: 23620
+MD5sum: 0f7e962e2c3b20dfa8835112a4dae6ab
+SHA1: a71fcaad11ed0569d0a74d2cff14bf132c96fa7e
+SHA256: 41aa5449185710510005bdb8e715ab7c00d6caca3f59991ea671e1c6c44359e7
+SHA512: 46837b8ab2f7251f6ac06abd40405c94fa3704f4e5d4d35f6263e866bac2c5a3636fc8785d1bbc70c75a79b73e640d94649dbdbdc1e1f600aa651536f08416a5
+Description: Trung tâm điều khiển phong cách IOS26.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/cc26/cc26.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/cc26/depiction.json
+Name: CC26(VN)
+Author: therealhoodboy
+Sponsor: 
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
