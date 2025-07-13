@@ -330,3 +330,24 @@ Name: VisionOS(DN)
 Author: Billie
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/chude-dn.png
+
+Package: com.diennguyen.kayoko
+Architecture: iphoneos-arm64
+Version: 2.9
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.diennguyen.kayoko_2.9-DN.deb
+Size: 128872
+MD5sum: 663bd878a7c6b6c1b061916f7005b7ca
+SHA1: 265092c2bd4daf2b6b6786140f32e10f05edb236
+SHA256: b61ece298b17488eea36142722a15be3f5e297b4f248e4c64de0fd81c95bbb36
+SHA512: 995273948d83e501615b28fa3549cee8c174892afb37769cd1c79fdf47bd1842a2c430578dca0f8c53073f2646871818621c5e02ce3285424d311b06d92424d0
+Description: Quản lý bộ nhớ trên iPhone
+Depiction: https://nhdien07122012.github.io/repo/descriptions/kayoko/kayoko.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/kayoko/depiction.json
+Name: Kayoko(DN)
+Author: Alexandra Aurora Göttlicher
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png

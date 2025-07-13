@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí! Rất dễ sử dụng! Nó cho phép sao chép hình ảnh sang phần mềm khác! Tương thích với Dopamine. 82flex đã hỗ trợ iOS 16, vui lòng chờ bản cập nhật để khắc phục mọi sự cố!",
+          "markdown": "Quản lý bộ nhớ trên iPhone",
           "useBoldText": true,
           "title": "markdown-description"
         },
@@ -98,7 +98,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 2.5 - Một tinh chỉnh clipboard, tương tự như Copylog và Nicelog, nhưng miễn phí! Rất dễ sử dụng! Nó cho phép sao chép hình ảnh sang phần mềm khác! Tương thích với Dopamine. 82flex đã hỗ trợ iOS 16, vui lòng chờ bản cập nhật để khắc phục mọi sự cố!",
+          "markdown": "### Phiên bản 2.9 - Quản lý bộ nhớ trên iPhone",
           "useRawFormat": true
         }
       ]
