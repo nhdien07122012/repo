@@ -43,7 +43,7 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 Package: com.diennguyen.iconreporootless
 Architecture: iphoneos-arm64
 Version: 1.0
-Section: System
+Section: IconRepo
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Filename: ./debs/com.diennguyen.iconreporootless_1.0-DN.deb
