@@ -1,7 +1,7 @@
 {
     "class": "FeaturedBannersView",
     "itemSize": "{265, 150}",
-    "itemCornerRadius": 10,
+    "itemCornerRadius": 25,
     "banners": [
         {
             "title": "Witcher(DN)",
