@@ -14,6 +14,8 @@ DESCRIPTION_FOLDER = "descriptions"
 IMAGE_FOLDER = "images"  # Thêm hằng số cho thư mục ảnh
 ICON_PATH = "file:///var/jb/Library/IconRepo/tinhchinh-dn.png"
 BASE_URL = "https://nhdien07122012.github.io/repo"
+SPONSOR ="Diễn Nguyễn"
+
 
 def extract_control_info_from_deb(deb_path: str) -> Dict[str, str]:
     control_info = {}
@@ -374,7 +376,7 @@ def generate_packages():
                 out_file.write(f"SileoDepiction: {BASE_URL}/descriptions/{short_dir}/depiction.json\n")
                 out_file.write(f"Name: {control.get('Name', '')}\n")
                 out_file.write(f"Author: {control.get('Author', '')}\n")
-                out_file.write(f"Sponsor: {control.get('Sponsor', '')}\n")
+                out_file.write(f"Sponsor: {SPONSOR}\n")
                 out_file.write(f"Icon: {ICON_PATH}\n")
                 out_file.write("\n")
 

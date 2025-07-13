@@ -16,7 +16,7 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/appdataplus/appdat
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/appdataplus/depiction.json
 Name: AppData Plus(DN)
 Author: Fouad Raheb & Netskao
-Sponsor: 
+Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.cc26
@@ -78,7 +78,7 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/alpine/alpine.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/alpine/depiction.json
 Name: Alpine(DN)
 Author: MTAC
-Sponsor: 
+Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.bohemicrootless
@@ -266,7 +266,7 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/cc26/cc26.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/cc26/depiction.json
 Name: CC26(DN)
 Author: therealhoodboy
-Sponsor: 
+Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.autoalerts
@@ -287,5 +287,5 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/autoale
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/depiction.json
 Name: AutoAlerts(DN)
 Author: shiftcmdk, Paisseon
-Sponsor: 
+Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png

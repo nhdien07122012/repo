@@ -16,8 +16,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/recorddot/recorddo
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/recorddot/depiction.json
 Name: RecordDot
 Author: Nightwind
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.kayoko
 Architecture: iphoneos-arm64
@@ -37,8 +37,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/kayoko/kayoko.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/kayoko/depiction.json
 Name: Kayoko
 Author: Traurige
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.iconreporootless
 Architecture: iphoneos-arm64
@@ -58,7 +58,7 @@ SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/iconreporootl
 Name: iCon Repo DN (Rootless)
 Author: Diễn Nguyễn
 Sponsor: Diễn Nguyễn
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.calculatorconverter
 Architecture: iphoneos-arm64
@@ -78,8 +78,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/calculatorconverte
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/calculatorconverter/depiction.json
 Name: CalculatorConverter
 Author: fiore
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.autoalerts
 Architecture: iphoneos-arm
@@ -99,8 +99,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/autoale
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/depiction.json
 Name: AutoAlerts
 Author: shiftcmdk, Paisseon
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.cc26
 Architecture: iphoneos-arm64
@@ -120,8 +120,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/cc26/cc26.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/cc26/depiction.json
 Name: CC26
 Author: therealhoodboy
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.cc26
 Architecture: iphoneos-arm64
@@ -141,8 +141,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/cc26/cc26.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/cc26/depiction.json
 Name: CC26
 Author: therealhoodboy
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.trapp.jb
 Architecture: iphoneos-arm64
@@ -162,8 +162,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/jb/jb.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/jb/depiction.json
 Name: TrollRecorder DN(RootLess)
 Author: Lessica <82flex@gmail.com>
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.bohemicrootless
 Architecture: iphoneos-arm64
@@ -182,8 +182,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/BohemicRootless/Bo
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/BohemicRootless/depiction.json
 Name: Bohemic Theme
 Author: timeloop
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.waktos2
 Architecture: iphoneos-arm64
@@ -203,8 +203,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/waktos2/waktos2.ht
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/waktos2/depiction.json
 Name: Waktos 2
 Author: alimaulana
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.appdataplus
 Architecture: iphoneos-arm64
@@ -224,8 +224,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/appdataplus/appdat
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/appdataplus/depiction.json
 Name: AppData Plus
 Author: Fouad Raheb & Netskao
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.flex3
 Architecture: iphoneos-arm64
@@ -245,8 +245,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/flex3/flex3.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/flex3/depiction.json
 Name: Flex 3
 Author: John Coates
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.calculatorhistory
 Architecture: iphoneos-arm64
@@ -266,8 +266,8 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/calculatorhistory/
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/calculatorhistory/depiction.json
 Name: CalculatorHistory
 Author: fiore
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.alpine
 Architecture: iphoneos-arm64
@@ -287,6 +287,6 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/alpine/alpine.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/alpine/depiction.json
 Name: Alpine
 Author: MTAC
-Sponsor: 
-Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
