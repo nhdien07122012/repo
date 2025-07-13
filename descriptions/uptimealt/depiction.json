@@ -28,7 +28,7 @@
             {
               "class": "DepictionTableButtonView",
               "title": "Xem mô tả gói tại đây",
-              "action": "https://nhdien07122012.github.io/repo/descriptions/autoalerts/autoalerts.html",
+              "action": "https://nhdien07122012.github.io/repo/descriptions/uptimealt/uptimealt.html",
               "openExternal": false
             },
             {
@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "Tự động hóa hành động cảnh báo bằng cách nhấn và giữ tiêu đề cảnh báo.",
+          "markdown": "Module thời gian hoạt động máy",
           "useBoldText": true,
           "title": "markdown-description"
         },
@@ -98,7 +98,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.0.4 - Tự động hóa hành động cảnh báo bằng cách nhấn và giữ tiêu đề cảnh báo.",
+          "markdown": "### Phiên bản 99.0 - Module thời gian hoạt động máy",
           "useRawFormat": true
         }
       ]

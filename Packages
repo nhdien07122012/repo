@@ -268,3 +268,45 @@ Name: AutoAlerts(DN)
 Author: shiftcmdk, Paisseon
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.uptimealt
+Architecture: iphoneos-arm
+Version: 99.0
+Section: Addons (ControlCenter)
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.diennguyen.uptimealt_99.0-DN.deb
+Size: 28748
+MD5sum: 14ace0baa36968b3ab869992bf174e4e
+SHA1: 07c6857218ef06757ab95d4dba2533ae6cb7b994
+SHA256: 76da75eee4912e942ae62e6f3f5f78323a43525942c78905330a9ffdeca40a10
+SHA512: 3caf9d8a9c4aa525a2a100eff98cfa10d97509c9070be79c061c36bc4a0445feb16d74248e6766b74b3e363b11376a7e9a03131d64104ac66a1efc4baef577f2
+Description: Module thời gian hoạt động máy
+Depiction: https://nhdien07122012.github.io/repo/descriptions/uptimealt/uptimealt.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/uptimealt/depiction.json
+Name: Uptime(DN)
+Author: MTAC
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.autoalerts
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.diennguyen.autoalerts_1.0.4-DN.deb
+Size: 78904
+MD5sum: f1751b5ca535708b0200fc2691108dff
+SHA1: d29c63433f9c862ba52f62c5e62abdbdc163cc98
+SHA256: a74716ae0de7cd085cf24cfc358b74da8aee867bc26b17aef3cecc152a87929d
+SHA512: 3092da4f965f140193486f558ee9afb3d99567be11a1e71a6278d302f05bb7d7f3ba69db68752b931eef7f80d193b53edc2bd8d5d0624925f187ab57ff61df22
+Description: Tự động hóa hành động cảnh báo bằng cách nhấn và giữ tiêu đề cảnh báo.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/autoalerts.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/depiction.json
+Name: AutoAlerts(DN)
+Author: shiftcmdk, waruhachi
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
