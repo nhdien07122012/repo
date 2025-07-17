@@ -289,6 +289,26 @@ Author: Diễn Nguyễn
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
+Package: com.diennguyen.tahoetheme
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Themes
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Filename: ./debs/com.diennguyen.tahoetheme_1.2-DN.deb
+Size: 6195136
+MD5sum: 617dbd396daeeebb415af0beda22085f
+SHA1: 44b6a4a61641ccca8c1cca86faa375bf1f323a1a
+SHA256: 79540023b5b0efe1642f4746f8a05e83b931036c26c973011bcfc7a42534155a
+SHA512: cdd8db2d7845b47f2d8336bcbb8d3ddae5c5c8e974d540e4757e20f38d98fae376d1205903210f2a61fbccbb065116d848197243f34374da03b8ff595453a261
+Description: Cập nhật Dock theme
+Depiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/tahoetheme.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/depiction.json
+Name: Tahoe Theme
+Author: Diễn Nguyễn
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
 Package: com.diennguyen.uptimealt
 Architecture: iphoneos-arm
 Version: 99.0
