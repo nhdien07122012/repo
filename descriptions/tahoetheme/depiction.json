@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "Cover theme theo style MAC Tahoe",
+          "markdown": "Cover theme theo style MAC Tahoe,Badge và Folder",
           "useBoldText": true,
           "title": "markdown-description"
         },
@@ -98,7 +98,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.1 - Cover theme theo style MAC Tahoe",
+          "markdown": "### Phiên bản 1.1 - Cover theme theo style MAC Tahoe,Badge và Folder",
           "useRawFormat": true
         }
       ]

@@ -339,12 +339,12 @@ Section: Themes
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Filename: ./debs/com.diennguyen.tahoetheme_1.1-DN.deb
-Size: 5768112
-MD5sum: 4db4d2bfaae640a156c4cebf466d0f60
-SHA1: c105be2aaa03f40ca3474772eb5b737af36af625
-SHA256: 48ed099b28a4fd2b5a077b4b50801e47caae76a21f32b8e83b15992968ed4ce9
-SHA512: e5a32c12521e6e98dcb1a77c022d8593a9f75bbacc052d4452ba26bcff9a3f8562dfe8652489faa89892a021f11ae6060d293deb50861045416d379bd334a96d
-Description: Cover theme theo style MAC Tahoe
+Size: 5768116
+MD5sum: 33e7ab4c3997f2131b0beab326191de9
+SHA1: 49ee108aa5bf158055445e7437f86da84395942a
+SHA256: 4b4e9f32f7e365081c95a5784aad2b463c89187c5661426e288edc64d314bdb4
+SHA512: 0d4e22572d15a24157edafb80a962e9c20bbfd1c1bfbadea7105a5c130e47d9a1789397b076f3b828f31e92a4a630612b560ff6141daf00ad5e1e042ec2aa910
+Description: Cover theme theo style MAC Tahoe,Badge và Folder
 Depiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/tahoetheme.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/depiction.json
 Name: Tahoe Theme(DN)
