@@ -332,19 +332,19 @@ Author: Alexandra Aurora Göttlicher
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
-Package: com.diennguyen.ios26theme
+Package: com.diennguyen.tahoetheme
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.1
 Section: Themes
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
-Filename: ./debs/com.diennguyen.tahoetheme_1.0-DN.deb
-Size: 5756208
-MD5sum: 25447b9120ed14ed175ae1b1646f7165
-SHA1: a03d360f0272c1ab0aedd33d850ea738c977f8e4
-SHA256: 88795257a199b943bbc490060ce88a3d11b8763e0af78550852c636221ed8aa7
-SHA512: e9cec06d8cab62e0b82f02f08919a8b52c2bc4d2026495ba9f5fd726ee3550fdc100c7df660c75086735c16d7e95ed934f72203c6418dfc4ae27f7e5188e8ea6
-Description: Tahoe Theme
+Filename: ./debs/com.diennguyen.tahoetheme_1.1-DN.deb
+Size: 5768112
+MD5sum: 4db4d2bfaae640a156c4cebf466d0f60
+SHA1: c105be2aaa03f40ca3474772eb5b737af36af625
+SHA256: 48ed099b28a4fd2b5a077b4b50801e47caae76a21f32b8e83b15992968ed4ce9
+SHA512: e5a32c12521e6e98dcb1a77c022d8593a9f75bbacc052d4452ba26bcff9a3f8562dfe8652489faa89892a021f11ae6060d293deb50861045416d379bd334a96d
+Description: Cover theme theo style MAC Tahoe
 Depiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/tahoetheme.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/depiction.json
 Name: Tahoe Theme(DN)
