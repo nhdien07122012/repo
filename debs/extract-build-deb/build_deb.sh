@@ -15,9 +15,12 @@ for dir in "$INPUT_DIR"/*; do
     if [ -d "$dir" ]; then
         pkg_name=$(basename "$dir")
         output_path="$OUTPUT_DIR/$pkg_name.deb"
-        
+
+        echo "🧹 Đang dọn dẹp file rác (.DS_Store) trong $pkg_name ..."
+        find "$dir" -name ".DS_Store" -type f -delete
+
         echo "📦 Đang build: $pkg_name → $output_path"
-        dpkg-deb -b "$dir" "$output_path"
+        dpkg-deb --build --root-owner-group "$dir" "$output_path"
 
         # Kiểm tra lỗi
         if [ $? -eq 0 ]; then
@@ -28,4 +31,4 @@ for dir in "$INPUT_DIR"/*; do
     fi
 done
 
-echo "✅ Đã hoàn tất."
+echo "🏁 Đã hoàn tất."
