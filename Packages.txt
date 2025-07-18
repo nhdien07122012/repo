@@ -269,6 +269,26 @@ Author: Nightwind
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
+Package: com.diennguyen.tahoethemehide
+Architecture: iphoneos-arm64e
+Version: 1.6
+Section: Themes Roothide
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Filename: ./debs/com.diennguyen.tahoethemehide_1.3-DN.deb
+Size: 7037684
+MD5sum: 0d756235414fe2aa7c45226e61ba7548
+SHA1: a5ac4121d857fd77877bbc0feed8e30dd1f0a447
+SHA256: 6ee173fb444c3d6c3bf4d2f9c0a539777ec7f875c25b079abe432529e92d99bb
+SHA512: 17697136c5b1776587cd6396d4f15e9ad4959ef2042bbff4d1a62e9062d5afe5bc0ea6b3c009daddd30381a720cc3d34ed70044198f08935544c2937d9f5482c
+Description: Chủ đề Tahoe dành cho roothide
+Depiction: https://nhdien07122012.github.io/repo/descriptions/tahoethemehide/tahoethemehide.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/tahoethemehide/depiction.json
+Name: Tahoe Theme
+Author: Diễn Nguyễn
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
 Package: com.diennguyen.tahoetheme
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -316,18 +336,18 @@ Section: Themes
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Filename: ./debs/com.diennguyen.tahoetheme_1.3-DN.deb
-Size: 7034140
-MD5sum: 76475872cdc7d1994aa706a25034285c
-SHA1: 267ea3c37b1519797d5fd58de72e71bc84fc3c32
-SHA256: 45d20aeb8953b7d537d27a6da4341b78abb9d6552aedafbd56c4f2ed258798bc
-SHA512: f3c9720f2d2eb10d57299f9d5579017db8bbdd562d866c261d718f86deffabdd12532ed4ddfa2dc0bf47521013c788d0c9f5ec2a89bce882271a143b720858a6
+Size: 7037860
+MD5sum: 89a4a6a9662a2718fb21f4710a941e38
+SHA1: dbde6b82e3c24f61a4bea69e960e04e269c03848
+SHA256: 86b37a1a13c82235015cac37d43c38cf39ffe81843f5b165a3183684a0245d21
+SHA512: 986b9af4f6d6eeb2b1997fec0f7056fbea8a92a44ffa9bc49cded14a2fa998383c3bff381810dfafccc0ee39669d66fa61c02232d506d6312d46fc075a58f5a8
 Description: Cập nhật icon ngân hàng và các icon khác, cập nhật badge trắng trong suốt
 Depiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/tahoetheme.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/depiction.json
 Name: Tahoe Theme(DN)
 Author: Diễn Nguyễn
 Sponsor: Diễn Nguyễn
-Icon: file:///var/jb/Library/IconRepo/chude-dn.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.uptimealt
 Architecture: iphoneos-arm
