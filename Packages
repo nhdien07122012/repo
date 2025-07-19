@@ -411,3 +411,24 @@ Name: Tahoe Theme Roothide(DN)
 Author: Diễn Nguyễn
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/chude-dn.png
+
+Package: com.diennguyen.locktouchx
+Architecture: iphoneos-arm64
+Version: 1.3-18+debug
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.diennguyen.LockTouch_1.3-DN.deb
+Size: 22288
+MD5sum: 1f2e47ed475680354542db8a0a27bf33
+SHA1: cbcdc60df16a4e973121632f8be74cbca48f85a0
+SHA256: 42af5acec55bdbe9d7a08b00f008c69b2be003d18cc772b06fef046f5a2b3e4a
+SHA512: b79531b0b09871d413015652cfdb91072e664c5db102ab682d74515c88b49127965d1657ba2242a1d8ef8960ebcef58a7a59e07fbc1dd9e826210fcbccd0ac15
+Description: Thêm xác thực Touch ID vào ứng dụng, giống như các tính năng bảo mật trong iOS 18
+Depiction: https://nhdien07122012.github.io/repo/descriptions/LockTouch/LockTouch.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/LockTouch/depiction.json
+Name: LockTouchX(DN)
+Author: MrDeNsor
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png

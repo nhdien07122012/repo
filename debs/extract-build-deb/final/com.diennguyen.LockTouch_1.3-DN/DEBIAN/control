@@ -1,0 +1,10 @@
+Package: com.diennguyen.locktouchx
+Name: LockTouchX(DN)
+Maintainer: Diễn Nguyễn	
+Author: MrDeNsor
+Description: Thêm xác thực Touch ID vào ứng dụng, giống như các tính năng bảo mật trong iOS 18
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.3-18+debug
+Installed-Size: 240
