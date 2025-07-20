@@ -299,10 +299,10 @@ Installed-Size: 304
 Depends: mobilesubstrate
 Filename: ./debs/com.diennguyen.switchtheme_1.0.0-DN.deb
 Size: 43320
-MD5sum: e2303430731eaa68c557a45315d25c9d
-SHA1: b8026e5693944e238ca6905a190935b3f8ab61ee
-SHA256: fdfca08b68478daf6ed88969674908d989430527a569ad543567b52763c52ef2
-SHA512: ecc3294f5b417ed866d03b7587fe97d87cb442fc4dabf7e96e4cfc3f325d0b72af32552572456098284426db2ef10d49c623456e84f7415b0967ab0fdcb435b0
+MD5sum: 21d31b2dd54e86fe803c2d06369c59f3
+SHA1: 5ea902989cb46093540d796c0b5e705c3ea24b54
+SHA256: 69bcea1febb34d336121e8c1b7e4cc9de46f97c898f7599266374e09a2d47823
+SHA512: 6a2b354662a0a10144bc31aa0220d0bc0114bfb3e48e50f08c5c77d84a39cc6080958f845bab6481608bdf79fe23675572a1e1533ec4a4ce80927cf8de015ca8
 Description: Thay đổi nút công tắc bật /Tắt
 Depiction: https://nhdien07122012.github.io/repo/descriptions/switchtheme/switchtheme.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/switchtheme/depiction.json
