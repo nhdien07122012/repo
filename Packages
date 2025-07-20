@@ -432,3 +432,24 @@ Name: LockTouchX(DN)
 Author: MrDeNsor
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.switchtheme
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.diennguyen.switchtheme_1.0.0-DN.deb
+Size: 43320
+MD5sum: e2303430731eaa68c557a45315d25c9d
+SHA1: b8026e5693944e238ca6905a190935b3f8ab61ee
+SHA256: fdfca08b68478daf6ed88969674908d989430527a569ad543567b52763c52ef2
+SHA512: ecc3294f5b417ed866d03b7587fe97d87cb442fc4dabf7e96e4cfc3f325d0b72af32552572456098284426db2ef10d49c623456e84f7415b0967ab0fdcb435b0
+Description: Thay đổi nút công tắc bật /Tắt
+Depiction: https://nhdien07122012.github.io/repo/descriptions/switchtheme/switchtheme.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/switchtheme/depiction.json
+Name: SwitchTheme(DN)
+Author: 白衣
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
