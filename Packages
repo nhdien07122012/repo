@@ -338,6 +338,7 @@ Version: 1.1
 Section: Themes RootLess
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
+Depends: com.diennguyen.iconreporootless_1.0-DN
 Filename: ./debs/com.diennguyen.tahoetheme_1.1-DN.deb
 Size: 5768116
 MD5sum: 33e7ab4c3997f2131b0beab326191de9
@@ -358,6 +359,7 @@ Version: 1.2
 Section: Themes RootLess
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
+Depends: com.diennguyen.iconreporootless_1.0-DN
 Filename: ./debs/com.diennguyen.tahoetheme_1.2-DN.deb
 Size: 6195136
 MD5sum: 617dbd396daeeebb415af0beda22085f
@@ -378,6 +380,7 @@ Version: 1.3
 Section: Themes RootLess
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
+Depends: com.diennguyen.iconreporootless_1.0-DN
 Filename: ./debs/com.diennguyen.tahoetheme_1.3-DN.deb
 Size: 7034140
 MD5sum: 76475872cdc7d1994aa706a25034285c
@@ -398,6 +401,7 @@ Version: 1.6
 Section: Themes Roothide
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
+Depends: com.diennguyen.iconreporootless_1.0-DN
 Filename: ./debs/com.diennguyen.tahoethemehide_1.3-DN.deb
 Size: 7037684
 MD5sum: 0d756235414fe2aa7c45226e61ba7548
