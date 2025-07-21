@@ -379,11 +379,11 @@ Section: Themes RootLess
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Filename: ./debs/com.diennguyen.tahoetheme_1.3-DN.deb
-Size: 7034140
-MD5sum: 76475872cdc7d1994aa706a25034285c
-SHA1: 267ea3c37b1519797d5fd58de72e71bc84fc3c32
-SHA256: 45d20aeb8953b7d537d27a6da4341b78abb9d6552aedafbd56c4f2ed258798bc
-SHA512: f3c9720f2d2eb10d57299f9d5579017db8bbdd562d866c261d718f86deffabdd12532ed4ddfa2dc0bf47521013c788d0c9f5ec2a89bce882271a143b720858a6
+Size: 7037860
+MD5sum: b58df2500dc004a3b45a8ac4d7dd9438
+SHA1: 1740619d548fa0c7d89ea7bf0f5b0c5d9d9521f8
+SHA256: f39b17f033cbc4790ffd892af0f461015b23b9ba9d1c69e63a01110e8b10fac3
+SHA512: f0d59eff07110b94b5b8ab5b4832ba359294595b81240c2a7bd00276905f1855f9310aede09e26809c4407f26b74a91624a7cd58da8a62115b6d8f4f46d2547b
 Description: Cập nhật icon ngân hàng và các icon khác, cập nhật badge trắng trong suốt
 Depiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/tahoetheme.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/depiction.json
@@ -433,3 +433,4 @@ Name: SwitchTheme(DN)
 Author: 白衣
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
