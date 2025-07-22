@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "Cập nhật icon trong setting và một số icon mới",
+          "markdown": "Cập nhật một số icon mới",
           "useBoldText": true,
           "title": "markdown-description"
         },
@@ -98,7 +98,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 2.0 - Cập nhật icon trong setting và một số icon mới",
+          "markdown": "### Phiên bản 2.1 - Cập nhật một số icon mới",
           "useRawFormat": true
         }
       ]
