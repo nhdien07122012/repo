@@ -249,23 +249,23 @@ Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
 Package: com.diennguyen.autoalerts
-Architecture: iphoneos-arm
-Version: 1.0.4-DN
+Architecture: iphoneos-arm64
+Version: 1.0.4
 Section: Tweaks
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debs/com.diennguyen.autoalerts_1.0.4-DN.deb
-Size: 55000
-MD5sum: 96f5cc741292076c47ff0223af105a1b
-SHA1: 0f78828cdd78f70e60f80119bdb97b6d83ce8eb7
-SHA256: ffb6423cd4f79d6511faaf70f6c3bf6ff3b363ab7a5ab0de2c2bf951f8b84866
-SHA512: ada90c56fd05ce9bb3c0f4048e2388ed7da9344a30d90e074be3f3b71170d158e15c4e9b5d4cb904f108a1026cf3768e6c5809431d695ce366fd4ab2a37e69a2
-Description: Tự động hóa các hành động cảnh báo. Phiên bản phân nhánh này bao gồm tính năng tự động loại bỏ các tinh chỉnh anthopak.
+Size: 78904
+MD5sum: f1751b5ca535708b0200fc2691108dff
+SHA1: d29c63433f9c862ba52f62c5e62abdbdc163cc98
+SHA256: a74716ae0de7cd085cf24cfc358b74da8aee867bc26b17aef3cecc152a87929d
+SHA512: 3092da4f965f140193486f558ee9afb3d99567be11a1e71a6278d302f05bb7d7f3ba69db68752b931eef7f80d193b53edc2bd8d5d0624925f187ab57ff61df22
+Description: Tự động hóa hành động cảnh báo bằng cách nhấn và giữ tiêu đề cảnh báo.
 Depiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/autoalerts.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/autoalerts/depiction.json
 Name: AutoAlerts(DN)
-Author: shiftcmdk, Paisseon
+Author: shiftcmdk, waruhachi
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
