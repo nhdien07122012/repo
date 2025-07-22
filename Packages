@@ -415,7 +415,7 @@ Icon: file:///var/jb/Library/IconRepo/chude-dn.png
 Package: com.diennguyen.tahoetheme
 Architecture: iphoneos-arm64
 Version: 2.1
-Section: Themes
+Section: Themes RootLess
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Filename: ./debs/com.diennguyen.tahoetheme_2.1-DN.deb
