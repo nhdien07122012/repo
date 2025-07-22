@@ -40,6 +40,27 @@ Author: Fouad Raheb & Netskao
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
+Package: com.diennguyen.apphider
+Architecture: iphoneos-arm64
+Version: 2.2.6
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 6134
+Depends: firmware (>= 6.0), mobilesubstrate
+Filename: ./debs/com.diennguyen.apphider_2.2.6-DN.deb
+Size: 1852800
+MD5sum: 2e934f2d1b547af9c8f30d4ff6c9bbe2
+SHA1: b83a822867c9a1cddddca9550fe7a4c5aa7e4725
+SHA256: 350de882bcaf0fcfcd644c7711fac9b5448cda0b15ddb9446ffb6809fa74a66b
+SHA512: 842b3ba2de61e78f58132dfe2d1bd8e501c0d8341b1db2e2435838c17c8b95063cf392aa280612063eb928966a78e840d095c0b01ab5f32b95167f3c65081ee6
+Description: Ẩn app trên màn hình chính.App Hider có thể ẩn ứng dụng của bạn khỏi SpringBoard giống như cách các ứng dụng biến mất khỏi iPhone. Vì vậy, bạn có thể ẩn các ứng dụng mà bạn không muốn người khác biết. Ẩn Cydia, giống như thiết bị iOS của bạn chưa được jailbreak. Ẩn Facebook, Instagram, Twitter để không ai biết. Chế độ Khách có thể được thiết lập bằng cách sử dụng tính năng nhóm.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/apphider/apphider.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/apphider/depiction.json
+Name: App Hider(DN)
+Author: liuming <liuminggui1993@163.com>
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
 Package: com.diennguyen.autoalerts
 Architecture: iphoneos-arm64
 Version: 1.0.4
@@ -390,6 +411,26 @@ Name: Tahoe Theme(DN)
 Author: Diễn Nguyễn
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.tahoetheme
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Themes
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Filename: ./debs/com.diennguyen.tahoetheme_2.0-DN.deb
+Size: 8252708
+MD5sum: 8c37bc6d9f611659def5b7fd05668a2e
+SHA1: 4fc5a814ab0218042760d6bf0cf1b283f1448412
+SHA256: 614e7e5465a09b07df8f845aca9e98a2cabb625c932fbcd4a81b2bef73a14bcc
+SHA512: e1081e69b5d30fd35e88e9f892361b2682e632058c445d56f3a8fca1566d0b43c95d97283bed29b8d46368d0d4a0c9184b4fda4beafb6f21b553176d3a973bd8
+Description: Cập nhật icon trong setting và một số icon mới
+Depiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/tahoetheme.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/depiction.json
+Name: Tahoe Theme(DN)
+Author: Diễn Nguyễn
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/chude-dn.png
 
 Package: com.diennguyen.uptimealt
 Architecture: iphoneos-arm
