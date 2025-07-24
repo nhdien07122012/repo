@@ -9,8 +9,8 @@ python generate_bz2.py   # ❗ dùng python thay vì python3
 echo "📁 Thêm file vào Git..."
 git add .
 
-echo "📝 Commit thay đổi..."
-git commit -m "update repo"
+read -p "📝 Nhập nội dung commit: " message
+git commit -m "$message"
 
 echo "☁️ Đẩy lên GitHub..."
 git push origin main
