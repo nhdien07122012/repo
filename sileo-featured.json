@@ -10,12 +10,12 @@
          },
          {
             "title": "NiceOS(DN)",
-            "package": "com.diennguyen.youpip",
+            "package": "com.niceios.niceios",
             "url": "https://nhdien07122012.github.io/repo/banner/banner1.png"
          },
          {
             "title": "Griddy(DN)",
-            "package": "com.diennguyen.youpip",
+            "package": "xyz.cypwn.griddy",
             "url": "https://nhdien07122012.github.io/repo/banner/banner2.jpeg"
          }
     ]
