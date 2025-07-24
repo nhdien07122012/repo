@@ -4,9 +4,9 @@
     "itemCornerRadius": 25,
     "banners": [
         {
-            "title": "Witcher(DN)",
-            "package": "com.diennguyen.youpip",
-            "url": "https://nhdien07122012.github.io/repo/banner/banner.jpg"
+            "title": "Tahoe Theme(DN)",
+            "package": "com.diennguyen.tahoetheme",
+            "url": "https://nhdien07122012.github.io/repo/banner/banner.png"
          },
          {
             "title": "NiceOS(DN)",
