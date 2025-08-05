@@ -514,3 +514,24 @@ Name: App Hider(DN)
 Author: liuming <liuminggui1993@163.com>
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.konban
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: HoangDus
+Installed-Size: 580
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 15.0), com.opa334.altlist, preferenceloader
+Filename: ./debs/com.diennguyen.konban_1.0.1-DN.deb
+Size: 43536
+MD5sum: 377de652ae62a2e4fca5e08120e4f164
+SHA1: c6fcc8d7c6b85dffeb7686894d29a87626a39a6c
+SHA256: 1480747dd01dd814f8a5d7b42508ea76aea80224eb5e4bcc29b71e46ccabe1d3
+SHA512: 32c703ab53c5ff794b90329a26f4cacf3fed67e2a7f3fbd0e0a41d28bdf0c50e4d774448f6f1d835ff8201b2f57ccb651729725b08752f1a060f60bd9a4ea1b4
+Description: Một ứng dụng trong chế độ xem "Hôm nay". Được HoangDus viết lại cho iOS 15 và 16.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/konban/konban.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/konban/depiction.json
+Name: Konban(DN)
+Author: HoangDus, nicho1asdev, Nepeta
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
