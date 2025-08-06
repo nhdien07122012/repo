@@ -519,7 +519,7 @@ Package: com.diennguyen.konban
 Architecture: iphoneos-arm64
 Version: 1.0.1
 Section: Tweaks
-Maintainer: HoangDus
+Maintainer: Diễn Nguyễn
 Installed-Size: 580
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 15.0), com.opa334.altlist, preferenceloader
 Filename: ./debs/com.diennguyen.konban_1.0.1-DN.deb
@@ -533,5 +533,47 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/konban/konban.html
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/konban/depiction.json
 Name: Konban(DN)
 Author: HoangDus, nicho1asdev, Nepeta
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.icatch
+Architecture: iphoneos-arm64
+Version: 1.1-120+debug
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.diennguyen.icatch_1.1-DN.deb
+Size: 29776
+MD5sum: 7f26701441de2ad70d46b410c781bb6c
+SHA1: fc7def37e7582a6f0d6bc7fe6e614e139f73ddee
+SHA256: b1e55dd0e6ccc10ef4d14f65da60b59b24d0f6cfce4480aef456b79a069e89b7
+SHA512: ef40158e98203412006302c55e6e613650a4284ad7704f77559957d64dee87d74798a147ba5dc29c8a6882c32c92005007cf51267606b9d1c78fac7bba80b0d9
+Description: ICATCH Phát hiện mỗi tệp .deb bạn tải xuống từ Sileo & Zebra.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/icatch/icatch.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/icatch/depiction.json
+Name: iCatch(DN)
+Author: DeNsor
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.lockdroid
+Architecture: iphoneos-arm64
+Version: 0.0~beta8
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.diennguyen.lockdroid_0.0~beta8-DN.deb
+Size: 84540
+MD5sum: a78839a85ba6cf3ed5b5d174ac1e447a
+SHA1: 35083ca85aa13f260c2f1588d6838c7a2d0336fa
+SHA256: 0f4c883f1f8153af62ba35202c697f23b6bc67654311d235d11f46b16d21c3b3
+SHA512: b9fe2a86e43721e2eeb87b63c9b85af7d33801eac67e573586960476cb0e3270f6f33977abb00e30db04faa0f78c08f9d80f89ba86bdbed3f0ba02b7aa50f521
+Description: Màn hình khoá android dạng vẽ
+Depiction: https://nhdien07122012.github.io/repo/descriptions/lockdroid/lockdroid.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/lockdroid/depiction.json
+Name: LockDroid(DN)
+Author: julioverne
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
