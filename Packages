@@ -63,7 +63,7 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 Package: com.diennguyen.bohemicrootless
 Architecture: iphoneos-arm64
 Version: 1.1.4
-Section: Themes RootLess
+Section: Themes
 Maintainer: Diễn Nguyễn
 Installed-Size: 1024
 Filename: ./debs/com.diennguyen.BohemicRootless_1.1.4.deb
@@ -575,5 +575,47 @@ Depiction: https://nhdien07122012.github.io/repo/descriptions/lockdroid/lockdroi
 SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/lockdroid/depiction.json
 Name: LockDroid(DN)
 Author: julioverne
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.looky.rootless
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.diennguyen.looky.rootless_1.0.1-DN.deb
+Size: 55060
+MD5sum: e87d37886b8910b3e5ec33d9a3b52142
+SHA1: 9de44f204ff0c2c49a37a687f7dbff302524e22a
+SHA256: 76478dc193b01b8927e8ea41d870d73e6cf00fa4e511f6ac3464135d0bc15735
+SHA512: 2f85f6b62dad4dc8fffdfd5d79cdd3752c9bbe89243cbb90a0ac6ff09b8c87919f378b54bf14a3f52a4c32d1a922db179f6a9cacae3dd9a760c64bf8703b7ea9
+Description: Trải nghiệm thông báo màn hình khóa thanh lịch dễ dàng!
+Depiction: https://nhdien07122012.github.io/repo/descriptions/rootless/rootless.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/rootless/depiction.json
+Name: Looky(DN)
+Author: EllaSP
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.luki.marie
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 940
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.diennguyen.luki.marie_1.0.6-DN.deb
+Size: 552480
+MD5sum: f6d8e1f1eb09e2b4a1b46bd3336d6a8e
+SHA1: e0dd71531d097e62a6ea0982d074e882cd6d052b
+SHA256: 82a1029f15d390f2d77be0deddfbc24c95aaecae13f379d80c9d7793d12332ee
+SHA512: b1a0ab7eb9afc8ab45344dcfbc93f015fc5e0d12da64d8b42d34db5d481e852a7fcc06ee19f97cd5375b2dad47380a8ec6d782baf69e5cf4a0af93b4b124d26c
+Description: Đặt hình ảnh làm hình nền cho trình quay số, mật mã hoặc bảng chia sẻ ngay lập tức.
+Depiction: https://nhdien07122012.github.io/repo/descriptions/marie/marie.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/marie/depiction.json
+Name: Marie(DN)
+Author: Luki
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
