@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "Cập nhật icon, passcode, maskicon tahoe.",
+          "markdown": "Cập nhật mask lokki, dock light and dark",
           "useBoldText": true,
           "title": "markdown-description"
         },
@@ -98,7 +98,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 3.0 - Cập nhật icon, passcode, maskicon tahoe.",
+          "markdown": "### Phiên bản 4.0 - Cập nhật mask lokki, dock light and dark",
           "useRawFormat": true
         }
       ]

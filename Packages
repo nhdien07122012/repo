@@ -452,6 +452,26 @@ Author: Diễn Nguyễn
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/chude-dn.png
 
+Package: com.diennguyen.tahoetheme
+Architecture: iphoneos-arm64
+Version: 4.0
+Section: Themes
+Maintainer: Diễn Nguyễn
+Installed-Size: 1024
+Filename: ./debs/com.diennguyen.tahoetheme_4.0-DN.deb
+Size: 10760084
+MD5sum: fecad604c61e4de79b1a7e4af1ee6fe4
+SHA1: 9266abbde228cbd28a7d34b9183ae1f21ace96f1
+SHA256: 8b3e5129dbb501b89c77f1e5ba58e9b22b67e93e282458536f44d3d868d9816d
+SHA512: 4024d0304e835455d7bd2a4e064ef7000b27fd4dda54b22e47f1a459b1526baf6fbbb57fd4384cfa6b7f1fea698a3560fc822f98f891214641f0cf36ed2e1176
+Description: Cập nhật mask lokki, dock light and dark
+Depiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/tahoetheme.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/tahoetheme/depiction.json
+Name: Tahoe Theme(DN)
+Author: Diễn Nguyễn
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/chude-dn.png
+
 Package: com.diennguyen.locktouchx
 Architecture: iphoneos-arm64
 Version: 1.3-18+debug
