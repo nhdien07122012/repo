@@ -619,6 +619,27 @@ Author: EllaSP
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
 
+Package: com.diennguyen.looky.rootless
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.diennguyen.looky.rootless_1.0.4-DN.deb
+Size: 55028
+MD5sum: a05b25b3f1ae321c97b291afd880fbd5
+SHA1: 53874408e35f71f1df7c94d6542954e9a567691e
+SHA256: 268c9572f2f490b68fda9fa2a8fed3ef61a517979f2e9a77474da003cdc15010
+SHA512: b97c7eb038d254f321a26398130fb60d5b68f0a1aced7b2aafdd5c190a6aab76e4378815258d00c2ccd63157e6abf40a8e9333ed5c5af6d4db13cd5db7801ff1
+Description: Trải nghiệm thông báo trên màn hình khóa thanh lịch và dễ dàng!
+Depiction: https://nhdien07122012.github.io/repo/descriptions/rootless/rootless.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/rootless/depiction.json
+Name: Looky(DN)
+Author: EllaSP
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
 Package: com.diennguyen.luki.marie
 Architecture: iphoneos-arm64
 Version: 1.0.6

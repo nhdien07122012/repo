@@ -61,7 +61,7 @@
         {
           "class": "DepictionMarkdownView",
           "useBottomMargin": false,
-          "markdown": "Trải nghiệm thông báo màn hình khóa thanh lịch dễ dàng!",
+          "markdown": "Trải nghiệm thông báo trên màn hình khóa thanh lịch và dễ dàng!",
           "useBoldText": true,
           "title": "markdown-description"
         },
@@ -98,7 +98,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.0.1 - Trải nghiệm thông báo màn hình khóa thanh lịch dễ dàng!",
+          "markdown": "### Phiên bản 1.0.4 - Trải nghiệm thông báo trên màn hình khóa thanh lịch và dễ dàng!",
           "useRawFormat": true
         }
       ]
