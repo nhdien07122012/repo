@@ -660,3 +660,24 @@ Name: Marie(DN)
 Author: Luki
 Sponsor: Diễn Nguyễn
 Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
+
+Package: com.diennguyen.vitreux
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Diễn Nguyễn
+Installed-Size: 6160
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.diennguyen.vitreux_1.1-DN.deb
+Size: 5588996
+MD5sum: f8296f6f9531e3032a70ae24920d2825
+SHA1: bd0456bb1ebdf83294954e838dbcfea8ac2a4f78
+SHA256: a3b814be4e49c1cb5d02421ce9866df1fc38dbcc8539612ec072f41868f44781
+SHA512: 78f0e377016102198cf7999e7da5521411b8824903a2b6fad0a07f9486ec063324507a7043d016c35b0da96b2072a86e2d100c1fdd2dbcde6f35f1b31e59ac92
+Description: Mang giao diện Liquid Glass lên iphone đời cũ!
+Depiction: https://nhdien07122012.github.io/repo/descriptions/vitreux/vitreux.html
+SileoDepiction: https://nhdien07122012.github.io/repo/descriptions/vitreux/depiction.json
+Name: Vitreux(DN)
+Author: MTAC
+Sponsor: Diễn Nguyễn
+Icon: file:///var/jb/Library/IconRepo/tinhchinh-dn.png
